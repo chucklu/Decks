@@ -118,28 +118,12 @@
         <Count>1</Count>
       </Card>
       <Card>
-        <Id>CS2_087</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>FP1_020</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_360</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
         <Id>CS2_089</Id>
         <Count>1</Count>
       </Card>
       <Card>
-        <Id>EX1_619</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
         <Id>CS2_179</Id>
-        <Count>1</Count>
+        <Count>2</Count>
       </Card>
       <Card>
         <Id>EX1_382</Id>
@@ -147,7 +131,7 @@
       </Card>
       <Card>
         <Id>CS2_097</Id>
-        <Count>1</Count>
+        <Count>2</Count>
       </Card>
       <Card>
         <Id>CS2_093</Id>
@@ -171,7 +155,7 @@
       </Card>
       <Card>
         <Id>EX1_097</Id>
-        <Count>1</Count>
+        <Count>2</Count>
       </Card>
       <Card>
         <Id>FP1_014</Id>
@@ -213,9 +197,13 @@
         <Id>EX1_383</Id>
         <Count>1</Count>
       </Card>
+      <Card>
+        <Id>CS1_069</Id>
+        <Count>1</Count>
+      </Card>
     </Cards>
     <Class>Paladin</Class>
-    <LastEdited>2014-11-25T21:41:42.2637616+08:00</LastEdited>
+    <LastEdited>2014-11-25T22:05:37.6568614+08:00</LastEdited>
     <Name>244657538圣骑士</Name>
     <Note />
     <Tags />
