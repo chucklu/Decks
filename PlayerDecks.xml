@@ -319,6 +319,104 @@
     <Tags />
     <Url />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>CS2_024</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_289</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_025</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_023</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>FP1_009</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_022</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_029</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_182</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_179</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_033</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_564</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>FP1_012</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>FP1_008</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_200</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_162</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>FP1_010</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_032</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_222</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_562</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_620</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_142</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_584</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Mage</Class>
+    <LastEdited>2014-11-25T22:54:21.6521044+08:00</LastEdited>
+    <Name>欧洲法师</Name>
+    <Note />
+    <Tags />
+    <Url />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Paladin</Class>
@@ -327,6 +425,10 @@
     <DeckInfo>
       <Class>Hunter</Class>
       <Name>美洲猎人</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Mage</Class>
+      <Name>欧洲法师</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
