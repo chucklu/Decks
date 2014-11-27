@@ -625,6 +625,112 @@
     <Tags />
     <Url />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>EX1_607</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_108</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_106</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_105</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_114</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_173</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_066</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_604</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>FP1_009</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_124</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_182</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>NEW1_011</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_179</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_048</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_112</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_097</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>FP1_014</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>FP1_012</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>FP1_015</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_200</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_162</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>FP1_010</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_222</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>FP1_013</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Warrior</Class>
+    <LastEdited>2014-11-27T22:09:01.0720684+08:00</LastEdited>
+    <Name>244657538战士</Name>
+    <Note />
+    <Tags />
+    <Url />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Mage</Class>
@@ -641,6 +747,10 @@
     <DeckInfo>
       <Class>Rogue</Class>
       <Name>美洲潜行者</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Warrior</Class>
+      <Name>244657538战士</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
