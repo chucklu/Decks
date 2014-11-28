@@ -731,11 +731,97 @@
     <Tags />
     <Url />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>FP1_018</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_023</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_289</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_022</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_029</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_182</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_179</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_033</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>FP1_031</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_048</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_097</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>FP1_014</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>FP1_015</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>FP1_012</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_200</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_162</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>FP1_010</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_032</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_222</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>FP1_013</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Mage</Class>
+    <LastEdited>2014-11-28T21:28:21.4148615+08:00</LastEdited>
+    <Name>244657538法师</Name>
+    <Note />
+    <Tags />
+    <Url />
+  </Deck>
   <LastDeckClass>
-    <DeckInfo>
-      <Class>Mage</Class>
-      <Name>欧洲法师</Name>
-    </DeckInfo>
     <DeckInfo>
       <Class>Hunter</Class>
       <Name>244657538猎人</Name>
@@ -751,6 +837,10 @@
     <DeckInfo>
       <Class>Warrior</Class>
       <Name>244657538战士</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Mage</Class>
+      <Name>244657538法师</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
