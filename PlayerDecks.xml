@@ -1025,14 +1025,100 @@
     <Tags />
     <Url />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>CS2_027</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS1_042</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_025</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_142</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_289</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_582</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_125</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_127</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_022</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_029</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_179</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_033</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_097</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_187</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_028</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_200</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_162</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_222</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_560</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_586</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Mage</Class>
+    <LastEdited>2014-12-05T21:55:00.8747276+08:00</LastEdited>
+    <Name>亚洲法师</Name>
+    <Note />
+    <Tags />
+    <Url />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Paladin</Class>
       <Name>美洲圣骑士</Name>
-    </DeckInfo>
-    <DeckInfo>
-      <Class>Mage</Class>
-      <Name>欧洲法师</Name>
     </DeckInfo>
     <DeckInfo>
       <Class>Warrior</Class>
@@ -1045,6 +1131,10 @@
     <DeckInfo>
       <Class>Rogue</Class>
       <Name>美洲潜行者</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Mage</Class>
+      <Name>亚洲法师</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
