@@ -1561,6 +1561,104 @@
     <Tags />
     <Url />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>CS2_005</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_009</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_013</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_120</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_173</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_172</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_066</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_007</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_019</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_125</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_182</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_131</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_179</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_396</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_593</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_187</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_226</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_614</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_200</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_162</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_222</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_232</Id>
+        <Count>2</Count>
+      </Card>
+    </Cards>
+    <Class>Druid</Class>
+    <LastEdited>2014-12-06T22:32:06.5969555+08:00</LastEdited>
+    <Name>1263028489德鲁伊</Name>
+    <Note />
+    <Tags />
+    <Url />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Paladin</Class>
@@ -1583,16 +1681,16 @@
       <Name>亚洲潜行者</Name>
     </DeckInfo>
     <DeckInfo>
+      <Class>Warlock</Class>
+      <Name>778346154术士</Name>
+    </DeckInfo>
+    <DeckInfo>
       <Class>Shaman</Class>
       <Name>2068652730萨满</Name>
     </DeckInfo>
     <DeckInfo>
       <Class>Druid</Class>
-      <Name>654586985德鲁伊</Name>
-    </DeckInfo>
-    <DeckInfo>
-      <Class>Warlock</Class>
-      <Name>778346154术士</Name>
+      <Name>1263028489德鲁伊</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
