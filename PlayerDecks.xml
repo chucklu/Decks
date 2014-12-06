@@ -1659,6 +1659,100 @@
     <Tags />
     <Url />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>EX1_302</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_189</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_065</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_168</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_059</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_173</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_066</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_506</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_061</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_057</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_124</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_005</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_062</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_182</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_179</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_048</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_187</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_226</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_200</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_162</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_222</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Warlock</Class>
+    <LastEdited>2014-12-06T23:11:10.6670286+08:00</LastEdited>
+    <Name>1565913992术士</Name>
+    <Note />
+    <Tags />
+    <Url />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Paladin</Class>
@@ -1681,16 +1775,16 @@
       <Name>亚洲潜行者</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Warlock</Class>
-      <Name>778346154术士</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Shaman</Class>
       <Name>2068652730萨满</Name>
     </DeckInfo>
     <DeckInfo>
       <Class>Druid</Class>
       <Name>1263028489德鲁伊</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Warlock</Class>
+      <Name>1565913992术士</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
