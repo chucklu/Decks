@@ -1115,26 +1115,206 @@
     <Tags />
     <Url />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>EX1_124</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_131</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_102</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>tt_004</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_200</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_125</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_221</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_182</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_179</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_048</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_080</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_076</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_097</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_151</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_187</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_226</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_162</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_213</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_186</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_222</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_560</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_586</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Rogue</Class>
+    <LastEdited>2014-12-06T15:03:09.342786+08:00</LastEdited>
+    <Name>亚洲潜行者</Name>
+    <Note />
+    <Tags />
+    <Url />
+  </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>CS2_045</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_021</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_508</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_189</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_509</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_168</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_506</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_247</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_162</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_565</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_173</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_393</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>NEW1_019</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_196</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_122</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_412</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>tt_004</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Shaman</Class>
+    <LastEdited>2014-12-06T17:24:06.6105141+08:00</LastEdited>
+    <Name>614982784萨满</Name>
+    <Note />
+    <Tags />
+    <Url />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Paladin</Class>
       <Name>美洲圣骑士</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Warrior</Class>
-      <Name>244657538战士</Name>
+      <Class>Mage</Class>
+      <Name>亚洲法师</Name>
     </DeckInfo>
     <DeckInfo>
       <Class>Hunter</Class>
       <Name>244657538猎人</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Rogue</Class>
-      <Name>美洲潜行者</Name>
+      <Class>Warrior</Class>
+      <Name>244657538战士</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Mage</Class>
-      <Name>亚洲法师</Name>
+      <Class>Rogue</Class>
+      <Name>亚洲潜行者</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Shaman</Class>
+      <Name>614982784萨满</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
