@@ -1291,6 +1291,96 @@
     <Tags />
     <Url />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>EX1_169</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_160</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_009</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_013</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_007</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_155</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_012</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_182</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_179</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>NEW1_007</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_165</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS1_069</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_226</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_173</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_200</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_162</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_067</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>NEW1_040</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_222</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_232</Id>
+        <Count>2</Count>
+      </Card>
+    </Cards>
+    <Class>Druid</Class>
+    <LastEdited>2014-12-06T21:32:46.2048661+08:00</LastEdited>
+    <Name>654586985德鲁伊</Name>
+    <Note />
+    <Tags />
+    <Url />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Paladin</Class>
@@ -1315,6 +1405,10 @@
     <DeckInfo>
       <Class>Shaman</Class>
       <Name>614982784萨满</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Druid</Class>
+      <Name>654586985德鲁伊</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
