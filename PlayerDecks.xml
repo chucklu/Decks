@@ -1969,6 +1969,100 @@
     <Tags />
     <Url />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>CS2_005</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_165</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_004</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_009</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_013</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_066</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_007</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_158</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_012</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_182</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_179</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_048</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_151</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_187</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_226</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_173</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_200</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_162</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_186</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_222</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_043</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Druid</Class>
+    <LastEdited>2014-12-07T11:04:38.8699142+08:00</LastEdited>
+    <Name>亚洲德鲁伊</Name>
+    <Note />
+    <Tags />
+    <Url />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Paladin</Class>
@@ -1987,10 +2081,6 @@
       <Name>2068652730萨满</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Druid</Class>
-      <Name>1263028489德鲁伊</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Warlock</Class>
       <Name>1565913992术士</Name>
     </DeckInfo>
@@ -2001,6 +2091,10 @@
     <DeckInfo>
       <Class>Mage</Class>
       <Name>欧洲竞技场法师</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Druid</Class>
+      <Name>亚洲德鲁伊</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
