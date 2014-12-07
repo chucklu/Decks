@@ -2427,6 +2427,116 @@
     <Tags />
     <Url />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>EX1_169</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_005</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_154</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_160</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_076</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_049</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_155</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_011</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_196</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_019</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_181</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_556</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_012</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_043</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_068</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_119</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_046</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_164</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_165</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_097</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_151</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_284</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>FP1_008</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_173</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_232</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Druid</Class>
+    <LastEdited>2014-12-07T13:20:29.3090927+08:00</LastEdited>
+    <Name>欧洲竞技场德鲁伊</Name>
+    <Note />
+    <Tags />
+    <Url />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Paladin</Class>
@@ -2449,20 +2559,20 @@
       <Name>1263028489萨满</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Mage</Class>
-      <Name>亚洲竞技场法师</Name>
-    </DeckInfo>
-    <DeckInfo>
-      <Class>Druid</Class>
-      <Name>1263028489德鲁伊</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Rogue</Class>
       <Name>778346154潜行者</Name>
     </DeckInfo>
     <DeckInfo>
       <Class>Priest</Class>
       <Name>614982784牧师</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Mage</Class>
+      <Name>亚洲竞技场法师</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Druid</Class>
+      <Name>欧洲竞技场德鲁伊</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
