@@ -2157,6 +2157,108 @@
     <Tags />
     <Url />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>EX1_277</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_027</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_188</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_024</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_025</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_608</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_289</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_294</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_612</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>tt_004</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_007</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_021</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_582</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_556</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_029</Id>
+        <Count>3</Count>
+      </Card>
+      <Card>
+        <Id>CS2_147</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_043</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_033</Id>
+        <Count>3</Count>
+      </Card>
+      <Card>
+        <Id>EX1_093</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS1_069</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_028</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_279</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_105</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Mage</Class>
+    <LastEdited>2014-12-07T11:28:40.5593741+08:00</LastEdited>
+    <Name>亚洲竞技场法师</Name>
+    <Note />
+    <Tags />
+    <Url />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Paladin</Class>
@@ -2175,20 +2277,20 @@
       <Name>1565913992术士</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Mage</Class>
-      <Name>欧洲竞技场法师</Name>
-    </DeckInfo>
-    <DeckInfo>
-      <Class>Druid</Class>
-      <Name>亚洲德鲁伊</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Hunter</Class>
       <Name>1565913992猎人</Name>
     </DeckInfo>
     <DeckInfo>
       <Class>Shaman</Class>
       <Name>1263028489萨满</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Druid</Class>
+      <Name>亚洲德鲁伊</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Mage</Class>
+      <Name>亚洲竞技场法师</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
