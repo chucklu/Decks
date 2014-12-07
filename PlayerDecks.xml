@@ -1756,6 +1756,104 @@
   <Deck>
     <Cards>
       <Card>
+        <Id>EX1_610</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_172</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_066</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_536</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_538</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>NEW1_031</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_539</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_005</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>DS1_183</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_182</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_179</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_048</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_221</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>NEW1_041</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>DS1_178</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_187</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_226</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_237</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_200</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_162</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_534</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_222</Id>
+        <Count>2</Count>
+      </Card>
+    </Cards>
+    <Class>Hunter</Class>
+    <LastEdited>2014-12-07T10:34:59.9502363+08:00</LastEdited>
+    <Name>1565913992猎人</Name>
+    <Note />
+    <Tags />
+    <Url />
+  </Deck>
+  <Deck>
+    <Cards>
+      <Card>
         <Id>NEW1_012</Id>
         <Count>1</Count>
       </Card>
@@ -1877,10 +1975,6 @@
       <Name>美洲圣骑士</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Hunter</Class>
-      <Name>244657538猎人</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Warrior</Class>
       <Name>244657538战士</Name>
     </DeckInfo>
@@ -1898,7 +1992,11 @@
     </DeckInfo>
     <DeckInfo>
       <Class>Warlock</Class>
-      <Name>778346154术士</Name>
+      <Name>1565913992术士</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Hunter</Class>
+      <Name>1565913992猎人</Name>
     </DeckInfo>
     <DeckInfo>
       <Class>Mage</Class>
