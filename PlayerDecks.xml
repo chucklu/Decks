@@ -2353,6 +2353,80 @@
     <Tags />
     <Url />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>CS2_235</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_508</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_021</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_509</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_168</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_506</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_162</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_120</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_173</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_393</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_196</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_122</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_412</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>tt_004</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_335</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS1_112</Id>
+        <Count>2</Count>
+      </Card>
+    </Cards>
+    <Class>Priest</Class>
+    <LastEdited>2014-12-07T13:02:25.5861778+08:00</LastEdited>
+    <Name>614982784牧师</Name>
+    <Note />
+    <Tags />
+    <Url />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Paladin</Class>
@@ -2385,6 +2459,10 @@
     <DeckInfo>
       <Class>Rogue</Class>
       <Name>778346154潜行者</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Priest</Class>
+      <Name>614982784牧师</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
