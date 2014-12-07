@@ -2537,6 +2537,100 @@
     <Tags />
     <Url />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>CS2_072</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_073</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_074</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_124</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_278</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_131</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_182</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_179</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>FP1_026</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_080</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_076</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_097</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_187</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_016</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_200</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_032</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_162</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_222</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_572</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_562</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>FP1_010</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Rogue</Class>
+    <LastEdited>2014-12-07T13:55:51.9755727+08:00</LastEdited>
+    <Name>2068652730潜行者</Name>
+    <Note />
+    <Tags />
+    <Url />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Paladin</Class>
@@ -2559,20 +2653,20 @@
       <Name>1263028489萨满</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Rogue</Class>
-      <Name>778346154潜行者</Name>
-    </DeckInfo>
-    <DeckInfo>
-      <Class>Priest</Class>
-      <Name>614982784牧师</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Mage</Class>
       <Name>亚洲竞技场法师</Name>
     </DeckInfo>
     <DeckInfo>
       <Class>Druid</Class>
       <Name>欧洲竞技场德鲁伊</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Priest</Class>
+      <Name>614982784牧师</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Rogue</Class>
+      <Name>2068652730潜行者</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
