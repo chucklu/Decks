@@ -2631,6 +2631,288 @@
     <Tags />
     <Url />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>CS2_235</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_508</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_189</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_168</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_506</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_029</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_173</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_066</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_393</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_196</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_122</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_412</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_124</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_019</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>tt_004</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_007</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_021</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS1_112</Id>
+        <Count>2</Count>
+      </Card>
+    </Cards>
+    <Class>Priest</Class>
+    <LastEdited>2014-12-08T20:03:08.8330853+08:00</LastEdited>
+    <Name>1565913992牧师</Name>
+    <Note />
+    <Tags />
+    <Url />
+  </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>CS2_005</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_154</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_007</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_006</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_005</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_012</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_182</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_179</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_222</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_048</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_097</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS1_069</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>NEW1_041</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_187</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_016</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_032</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_200</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_162</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>FP1_010</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_232</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_572</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_562</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Druid</Class>
+    <LastEdited>2014-12-08T20:21:22.0276125+08:00</LastEdited>
+    <Name>2068652730德鲁伊</Name>
+    <Note />
+    <Tags />
+    <Url />
+  </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>CS2_073</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_004</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_162</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_173</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_131</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>NEW1_019</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_133</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_390</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_125</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>tt_004</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_182</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_179</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_048</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_396</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_080</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS1_069</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_187</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_200</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_162</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_067</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>NEW1_040</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_186</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_222</Id>
+        <Count>2</Count>
+      </Card>
+    </Cards>
+    <Class>Rogue</Class>
+    <LastEdited>2014-12-08T21:28:05.1515781+08:00</LastEdited>
+    <Name>654586985潜行者</Name>
+    <Note />
+    <Tags />
+    <Url />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Paladin</Class>
@@ -2645,28 +2927,28 @@
       <Name>1565913992术士</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Hunter</Class>
-      <Name>1565913992猎人</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Shaman</Class>
       <Name>1263028489萨满</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Mage</Class>
-      <Name>亚洲竞技场法师</Name>
+      <Class>Hunter</Class>
+      <Name>美洲猎人</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Druid</Class>
-      <Name>欧洲竞技场德鲁伊</Name>
+      <Class>Mage</Class>
+      <Name>244657538法师</Name>
     </DeckInfo>
     <DeckInfo>
       <Class>Priest</Class>
-      <Name>614982784牧师</Name>
+      <Name>1565913992牧师</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Druid</Class>
+      <Name>2068652730德鲁伊</Name>
     </DeckInfo>
     <DeckInfo>
       <Class>Rogue</Class>
-      <Name>2068652730潜行者</Name>
+      <Name>654586985潜行者</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
