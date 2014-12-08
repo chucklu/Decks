@@ -2913,11 +2913,223 @@
     <Tags />
     <Url />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>EX1_010</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_189</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_025</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_608</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_049</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_096</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_066</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_023</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_412</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_007</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_556</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_275</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_029</Id>
+        <Count>4</Count>
+      </Card>
+      <Card>
+        <Id>EX1_043</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_033</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_274</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_197</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS1_069</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>NEW1_041</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_151</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_284</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_032</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_279</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_227</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Mage</Class>
+    <LastEdited>2014-12-08T21:56:36.7964786+08:00</LastEdited>
+    <Name>654586985法师</Name>
+    <Note />
+    <Tags />
+    <Url />
+  </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>EX1_371</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_360</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_004</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_172</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_066</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_362</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_349</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_122</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_382</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_597</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_170</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_102</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_019</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_125</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_097</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_093</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_182</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_179</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_046</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_221</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_564</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>DS1_055</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_067</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_088</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_222</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Paladin</Class>
+    <LastEdited>2014-12-08T23:03:39.6925751+08:00</LastEdited>
+    <Name>614982784圣骑士</Name>
+    <Note />
+    <Tags />
+    <Url />
+  </Deck>
   <LastDeckClass>
-    <DeckInfo>
-      <Class>Paladin</Class>
-      <Name>美洲圣骑士</Name>
-    </DeckInfo>
     <DeckInfo>
       <Class>Warrior</Class>
       <Name>244657538战士</Name>
@@ -2935,10 +3147,6 @@
       <Name>美洲猎人</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Mage</Class>
-      <Name>244657538法师</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Priest</Class>
       <Name>1565913992牧师</Name>
     </DeckInfo>
@@ -2949,6 +3157,14 @@
     <DeckInfo>
       <Class>Rogue</Class>
       <Name>654586985潜行者</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Mage</Class>
+      <Name>654586985法师</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Paladin</Class>
+      <Name>614982784圣骑士</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
