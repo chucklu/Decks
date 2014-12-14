@@ -3459,14 +3459,84 @@
     <Tags />
     <Url />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>EX1_308</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_188</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_405</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_319</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_065</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_008</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>GVG_015</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>GVG_103</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_162</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_393</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>NEW1_019</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_019</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_020</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_556</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_093</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_046</Id>
+        <Count>2</Count>
+      </Card>
+    </Cards>
+    <Class>Warlock</Class>
+    <LastEdited>2014-12-14T23:33:32.3846407+08:00</LastEdited>
+    <Name>244657538术士</Name>
+    <Note />
+    <Tags />
+    <Url />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Warrior</Class>
       <Name>244657538战士</Name>
-    </DeckInfo>
-    <DeckInfo>
-      <Class>Warlock</Class>
-      <Name>1565913992术士</Name>
     </DeckInfo>
     <DeckInfo>
       <Class>Shaman</Class>
@@ -3495,6 +3565,10 @@
     <DeckInfo>
       <Class>Druid</Class>
       <Name>244657538德鲁伊</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Warlock</Class>
+      <Name>244657538术士</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
