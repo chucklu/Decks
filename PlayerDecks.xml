@@ -3396,10 +3396,6 @@
         <Count>2</Count>
       </Card>
       <Card>
-        <Id>FP1_031</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
         <Id>EX1_165</Id>
         <Count>1</Count>
       </Card>
@@ -3424,15 +3420,7 @@
         <Count>1</Count>
       </Card>
       <Card>
-        <Id>CS2_200</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
         <Id>CS2_162</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>FP1_010</Id>
         <Count>1</Count>
       </Card>
       <Card>
@@ -3451,9 +3439,21 @@
         <Id>GVG_116</Id>
         <Count>1</Count>
       </Card>
+      <Card>
+        <Id>GVG_034</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_076</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_164</Id>
+        <Count>1</Count>
+      </Card>
     </Cards>
     <Class>Druid</Class>
-    <LastEdited>2014-12-14T15:44:00.3722938+08:00</LastEdited>
+    <LastEdited>2014-12-14T21:02:41.1219381+08:00</LastEdited>
     <Name>244657538德鲁伊</Name>
     <Note />
     <Tags />
