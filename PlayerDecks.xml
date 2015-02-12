@@ -5608,6 +5608,112 @@
     <Name>欧洲战士</Name>
     <SyncWithHearthStats xsi:nil="true" />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>CS2_188</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_004</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_405</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_508</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_319</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_065</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_509</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_506</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_168</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_029</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>GVG_015</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_103</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_162</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_393</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_173</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>NEW1_019</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_122</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_412</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>tt_004</Id>
+        <Count>2</Count>
+      </Card>
+    </Cards>
+    <Class>Warlock</Class>
+    <HearthStatsDeckVersionId />
+    <HearthStatsId />
+    <LastEdited>2015-02-12T20:58:23.017183+08:00</LastEdited>
+    <MissingCards />
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <Tags />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
+    <IsArenaDeck>false</IsArenaDeck>
+    <DeckId>2f803a79-967e-4d0f-85be-9f16b955d8b1</DeckId>
+    <Name>美洲术士</Name>
+    <SyncWithHearthStats xsi:nil="true" />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Mage</Class>
@@ -5630,19 +5736,9 @@
       <Name>丑牛萨满</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Warlock</Class>
-      <Id>00000000-0000-0000-0000-000000000000</Id>
-      <Name>死亡之翼术士</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Hunter</Class>
       <Id>00000000-0000-0000-0000-000000000000</Id>
       <Name>654586985猎人</Name>
-    </DeckInfo>
-    <DeckInfo>
-      <Class>Rogue</Class>
-      <Id>00000000-0000-0000-0000-000000000000</Id>
-      <Name>2068652730潜行者</Name>
     </DeckInfo>
     <DeckInfo>
       <Class>Druid</Class>
@@ -5653,6 +5749,16 @@
       <Class>Warrior</Class>
       <Id>5bf87c82-4f69-4ebc-9ffc-c870ab2fb41e</Id>
       <Name>欧洲战士</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Rogue</Class>
+      <Id>c0a4d513-20ba-4dc4-b05d-63d7a65d15fe</Id>
+      <Name>欧洲潜行者</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Warlock</Class>
+      <Id>2f803a79-967e-4d0f-85be-9f16b955d8b1</Id>
+      <Name>美洲术士</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
