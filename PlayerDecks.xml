@@ -6277,6 +6277,119 @@
     <Name>丑牛牧师</Name>
     <SyncWithHearthStats xsi:nil="true" />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>EX1_621</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_003</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_235</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_234</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_236</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_341</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_339</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_622</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_335</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_591</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS1_112</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>GVG_083</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_624</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_623</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_200</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_350</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_110</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>FP1_013</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_079</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS1_113</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_620</Id>
+        <Count>2</Count>
+      </Card>
+    </Cards>
+    <Class>Priest</Class>
+    <HearthStatsId />
+    <LastEdited>2015-02-17T19:31:46.9880825+08:00</LastEdited>
+    <MissingCards />
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <Tags />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
+    <IsArenaDeck>false</IsArenaDeck>
+    <DeckId>398981a6-033c-40fb-9374-6a1a0151cdd1</DeckId>
+    <Name>美洲牧师</Name>
+    <SyncWithHearthStats xsi:nil="true" />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Paladin</Class>
@@ -6309,19 +6422,19 @@
       <Name>2068652730德鲁伊</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Rogue</Class>
-      <Id>179fbb08-7b10-4154-b414-2a25f70f4d4c</Id>
-      <Name>子非鱼潜行者</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Mage</Class>
       <Id>7338c317-6d06-474d-aff1-9067b49babb8</Id>
       <Name>霜之咏叹调法师</Name>
     </DeckInfo>
     <DeckInfo>
+      <Class>Rogue</Class>
+      <Id>c4dddbe7-d99d-471a-b316-12a8ad6b5934</Id>
+      <Name>美洲潜行者</Name>
+    </DeckInfo>
+    <DeckInfo>
       <Class>Priest</Class>
-      <Id>87c3ee4c-354f-4cb9-84c7-a53bebdbd27c</Id>
-      <Name>丑牛牧师</Name>
+      <Id>398981a6-033c-40fb-9374-6a1a0151cdd1</Id>
+      <Name>美洲牧师</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
