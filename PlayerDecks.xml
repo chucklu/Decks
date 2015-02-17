@@ -6507,6 +6507,131 @@
     <Name>亚洲猎人</Name>
     <SyncWithHearthStats xsi:nil="true" />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>EX1_620</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_222</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_033</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>NEW1_040</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_067</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_162</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_200</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_064</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_309</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_226</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_187</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS1_069</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_197</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_119</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_048</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_179</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_057</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_182</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_062</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_057</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_061</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_316</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_308</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_065</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Warlock</Class>
+    <HearthStatsId />
+    <LastEdited>2015-02-17T20:37:02.3730297+08:00</LastEdited>
+    <MissingCards />
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <Tags />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
+    <IsArenaDeck>false</IsArenaDeck>
+    <DeckId>4dc27d01-eb1d-4804-898e-76ab9ae67efb</DeckId>
+    <Name>此生谁料术士</Name>
+    <SyncWithHearthStats xsi:nil="true" />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Paladin</Class>
@@ -6522,11 +6647,6 @@
       <Class>Warrior</Class>
       <Id>149d94c7-4a1b-4781-9a5a-1e8613f53521</Id>
       <Name>子非鱼战士</Name>
-    </DeckInfo>
-    <DeckInfo>
-      <Class>Warlock</Class>
-      <Id>e2d90367-5c17-4904-8cfa-328f20650cc3</Id>
-      <Name>子非鱼术士</Name>
     </DeckInfo>
     <DeckInfo>
       <Class>Druid</Class>
@@ -6552,6 +6672,11 @@
       <Class>Hunter</Class>
       <Id>bda0d563-19ad-48ba-97c9-21ce455a1e19</Id>
       <Name>亚洲猎人</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Warlock</Class>
+      <Id>4dc27d01-eb1d-4804-898e-76ab9ae67efb</Id>
+      <Name>此生谁料术士</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
