@@ -6632,6 +6632,111 @@
     <Name>此生谁料术士</Name>
     <SyncWithHearthStats xsi:nil="true" />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>EX1_277</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_004</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_508</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_168</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_506</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_024</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_025</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_162</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_142</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_173</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_066</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>NEW1_019</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_196</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_122</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_124</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>tt_004</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_582</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_507</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_029</Id>
+        <Count>2</Count>
+      </Card>
+    </Cards>
+    <Class>Mage</Class>
+    <HearthStatsId />
+    <LastEdited>2015-02-18T14:43:08.4615151+08:00</LastEdited>
+    <MissingCards />
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <Tags />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
+    <IsArenaDeck>false</IsArenaDeck>
+    <DeckId>07bc8aab-55f0-4845-b95d-c2b5c312fa17</DeckId>
+    <Name>此生谁料法师</Name>
+    <SyncWithHearthStats xsi:nil="true" />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Paladin</Class>
@@ -6654,11 +6759,6 @@
       <Name>2068652730德鲁伊</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Mage</Class>
-      <Id>7338c317-6d06-474d-aff1-9067b49babb8</Id>
-      <Name>霜之咏叹调法师</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Priest</Class>
       <Id>398981a6-033c-40fb-9374-6a1a0151cdd1</Id>
       <Name>美洲牧师</Name>
@@ -6675,8 +6775,13 @@
     </DeckInfo>
     <DeckInfo>
       <Class>Warlock</Class>
-      <Id>4dc27d01-eb1d-4804-898e-76ab9ae67efb</Id>
-      <Name>此生谁料术士</Name>
+      <Id>e2d90367-5c17-4904-8cfa-328f20650cc3</Id>
+      <Name>子非鱼术士</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Mage</Class>
+      <Id>07bc8aab-55f0-4845-b95d-c2b5c312fa17</Id>
+      <Name>此生谁料法师</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
