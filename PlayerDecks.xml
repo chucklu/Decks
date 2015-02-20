@@ -7137,6 +7137,248 @@
     <Name>此生谁料萨满</Name>
     <SyncWithHearthStats xsi:nil="true" />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>NEW1_012</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_010</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_001</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_608</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_162</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_081</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_059</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_002</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_066</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_203</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>FP1_018</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_412</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_005</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>tt_004</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_029</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_005</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_107</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_043</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_179</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_033</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_046</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>NEW1_041</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_069</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_028</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_283</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_032</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>GVG_079</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Mage</Class>
+    <HearthStatsId />
+    <LastEdited>2015-02-20T13:47:02.1931742+08:00</LastEdited>
+    <MissingCards />
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <Tags />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
+    <IsArenaDeck>true</IsArenaDeck>
+    <DeckId>d8030504-afb9-4f98-a15b-8fbb46d62ad5</DeckId>
+    <Name>卯兔竞技场法师</Name>
+    <SyncWithHearthStats xsi:nil="true" />
+  </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>CS2_188</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_004</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_508</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>NEW1_012</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_509</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_168</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_506</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_029</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_025</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_608</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_162</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>GVG_002</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_173</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_172</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_393</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>NEW1_019</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_044</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_196</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_412</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Mage</Class>
+    <HearthStatsId />
+    <LastEdited>2015-02-20T16:05:10.5325047+08:00</LastEdited>
+    <MissingCards />
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <Tags />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
+    <IsArenaDeck>false</IsArenaDeck>
+    <DeckId>1b5edc2d-79ca-4d49-8ef7-538c0fce2d08</DeckId>
+    <Name>寅虎法师</Name>
+    <SyncWithHearthStats xsi:nil="true" />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Druid</Class>
@@ -7159,11 +7401,6 @@
       <Name>死亡之翼术士</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Mage</Class>
-      <Id>7338c317-6d06-474d-aff1-9067b49babb8</Id>
-      <Name>霜之咏叹调法师</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Warrior</Class>
       <Id>8bd064ad-eb07-48ba-a651-003704c535ed</Id>
       <Name>美洲战士</Name>
@@ -7182,6 +7419,11 @@
       <Class>Shaman</Class>
       <Id>51e74004-5df0-4caf-8eab-242cfc71b01e</Id>
       <Name>此生谁料萨满</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Mage</Class>
+      <Id>1b5edc2d-79ca-4d49-8ef7-538c0fce2d08</Id>
+      <Name>寅虎法师</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
