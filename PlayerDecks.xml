@@ -8013,6 +8013,139 @@
     <Name>寅虎圣骑士</Name>
     <SyncWithHearthStats xsi:nil="true" />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>CS2_188</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_010</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_096</Id>
+        <Count>3</Count>
+      </Card>
+      <Card>
+        <Id>GVG_067</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_362</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>FP1_002</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_597</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_089</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_005</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_007</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_020</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_556</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_094</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_092</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_057</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_025</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_068</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS1_069</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>FP1_012</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>NEW1_041</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_028</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_226</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_200</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_088</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_222</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_079</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Paladin</Class>
+    <HearthStatsId />
+    <LastEdited>2015-02-21T01:56:01.3851775+08:00</LastEdited>
+    <MissingCards />
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <Tags />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
+    <IsArenaDeck>true</IsArenaDeck>
+    <DeckId>37b3ffdc-e9bc-4f92-887b-f095829c6c0a</DeckId>
+    <Name>丑牛竞技场圣骑士</Name>
+    <SyncWithHearthStats xsi:nil="true" />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Priest</Class>
@@ -8056,8 +8189,8 @@
     </DeckInfo>
     <DeckInfo>
       <Class>Paladin</Class>
-      <Id>d4202eb8-14fe-478a-90c7-b854bb6af747</Id>
-      <Name>寅虎圣骑士</Name>
+      <Id>37b3ffdc-e9bc-4f92-887b-f095829c6c0a</Id>
+      <Name>丑牛竞技场圣骑士</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
