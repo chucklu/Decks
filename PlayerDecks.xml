@@ -7379,6 +7379,204 @@
     <Name>寅虎法师</Name>
     <SyncWithHearthStats xsi:nil="true" />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>CS2_182</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>NEW1_011</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_179</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_048</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_119</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_595</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_197</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_396</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_046</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS1_069</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_187</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_614</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_283</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_032</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_200</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_162</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_186</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_161</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_222</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Warrior</Class>
+    <HearthStatsId />
+    <LastEdited>2015-02-20T16:14:54.5089062+08:00</LastEdited>
+    <MissingCards />
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <Tags />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
+    <IsArenaDeck>false</IsArenaDeck>
+    <DeckId>906eee8a-3f1c-4a21-802e-3a7ba4dd960e</DeckId>
+    <Name>寅虎战士</Name>
+    <SyncWithHearthStats xsi:nil="true" />
+  </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>EX1_009</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>DS1_175</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_171</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_162</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_120</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_172</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_203</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_531</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_538</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>NEW1_031</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_017</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_125</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_119</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>DS1_178</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_237</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_201</Id>
+        <Count>2</Count>
+      </Card>
+    </Cards>
+    <Class>Hunter</Class>
+    <HearthStatsId />
+    <LastEdited>2015-02-20T16:35:04.0270867+08:00</LastEdited>
+    <MissingCards />
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <Tags />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
+    <IsArenaDeck>false</IsArenaDeck>
+    <DeckId>453cc2f7-07ed-436d-aa48-054c89cd9f27</DeckId>
+    <Name>死亡之翼猎人</Name>
+    <SyncWithHearthStats xsi:nil="true" />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Druid</Class>
@@ -7401,29 +7599,29 @@
       <Name>死亡之翼术士</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Warrior</Class>
-      <Id>8bd064ad-eb07-48ba-a651-003704c535ed</Id>
-      <Name>美洲战士</Name>
-    </DeckInfo>
-    <DeckInfo>
-      <Class>Hunter</Class>
-      <Id>31477f27-30b7-4374-a817-1df0ac18c626</Id>
-      <Name>欧洲猎人</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Rogue</Class>
       <Id>32b3deb1-ebb1-4f0e-a1ed-6d05a092e9f0</Id>
       <Name>亚洲潜行者</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Shaman</Class>
-      <Id>51e74004-5df0-4caf-8eab-242cfc71b01e</Id>
-      <Name>此生谁料萨满</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Mage</Class>
       <Id>1b5edc2d-79ca-4d49-8ef7-538c0fce2d08</Id>
       <Name>寅虎法师</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Warrior</Class>
+      <Id>906eee8a-3f1c-4a21-802e-3a7ba4dd960e</Id>
+      <Name>寅虎战士</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Shaman</Class>
+      <Id>4017edd3-6b99-49a4-9719-18bd33381f27</Id>
+      <Name>丑牛萨满</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Hunter</Class>
+      <Id>453cc2f7-07ed-436d-aa48-054c89cd9f27</Id>
+      <Name>死亡之翼猎人</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
