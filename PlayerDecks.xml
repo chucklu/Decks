@@ -2,12 +2,13 @@
 <Decks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Tags>
     <Tag>All</Tag>
+    <Tag>None</Tag>
     <Tag>Favorite</Tag>
     <Tag>Arena</Tag>
     <Tag>Constructed</Tag>
-    <Tag>None</Tag>
   </Tags>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_024</Id>
@@ -109,7 +110,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -123,8 +123,10 @@
     <DeckId>0c5ccf8b-dcd6-4754-8b90-51cb613e37d5</DeckId>
     <Name>欧洲法师</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>FP1_018</Id>
@@ -218,7 +220,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -232,133 +233,10 @@
     <DeckId>e3e4816e-7b68-4f5d-9450-dc857310c050</DeckId>
     <Name>244657538法师</Name>
     <SyncWithHearthStats xsi:nil="true" />
-  </Deck>
-  <Deck>
-    <Cards>
-      <Card>
-        <Id>FP1_018</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_023</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_289</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_006</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>FP1_009</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_022</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_029</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_182</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_179</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_033</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_048</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>FP1_014</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_564</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS1_069</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_032</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>FP1_012</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_187</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>FP1_015</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>FP1_008</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_200</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_162</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>FP1_010</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_032</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_222</Id>
-        <Count>1</Count>
-      </Card>
-    </Cards>
-    <Class>Mage</Class>
-    <HearthStatsId />
-    <LastEdited>2014-11-28T22:14:37.2386296+08:00</LastEdited>
-    <MissingCards />
-    <Note />
-    <SelectedVersion>
-      <Build>0</Build>
-      <Major>1</Major>
-      <Minor>0</Minor>
-      <Revision>0</Revision>
-    </SelectedVersion>
     <Tags />
-    <Url />
-    <Version>
-      <Build>0</Build>
-      <Major>1</Major>
-      <Minor>0</Minor>
-      <Revision>0</Revision>
-    </Version>
-    <DeckHistory />
-    <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
-    <IsArenaDeck>false</IsArenaDeck>
-    <DeckId>37633221-5ae5-49d4-9fd0-f062492d5f21</DeckId>
-    <Name>美洲法师</Name>
-    <SyncWithHearthStats xsi:nil="true" />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_045</Id>
@@ -440,7 +318,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -454,8 +331,10 @@
     <DeckId>cdef0529-30a6-4991-9144-5475ccd31997</DeckId>
     <Name>614982784萨满</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>EX1_169</Id>
@@ -549,7 +428,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -563,8 +441,10 @@
     <DeckId>2df99571-2f94-494a-b9d5-ad27db610e75</DeckId>
     <Name>654586985德鲁伊</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_045</Id>
@@ -666,7 +546,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -680,8 +559,10 @@
     <DeckId>e2547d39-8c40-4204-a38a-1fc8b58d4c13</DeckId>
     <Name>2068652730萨满</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>EX1_302</Id>
@@ -767,7 +648,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -781,8 +661,10 @@
     <DeckId>a8fe2567-b6b6-490c-8833-10b69ec0e76f</DeckId>
     <Name>778346154术士</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>EX1_302</Id>
@@ -880,7 +762,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -894,8 +775,10 @@
     <DeckId>8eea0522-d19a-40a7-bab0-3e54666d36fa</DeckId>
     <Name>1565913992术士</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>EX1_610</Id>
@@ -997,7 +880,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -1011,8 +893,10 @@
     <DeckId>88e8e18e-ffe7-41d2-bd88-09dfa944e3d2</DeckId>
     <Name>1565913992猎人</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>NEW1_012</Id>
@@ -1134,7 +1018,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -1148,8 +1031,10 @@
     <DeckId>e8e3d54d-de8c-4807-8a9c-037c2e80cb28</DeckId>
     <Name>欧洲竞技场法师</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_045</Id>
@@ -1247,7 +1132,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -1261,8 +1145,10 @@
     <DeckId>e5a860d8-6e3b-43a1-9fa2-b9288146b06f</DeckId>
     <Name>1263028489萨满</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>EX1_277</Id>
@@ -1368,7 +1254,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -1382,8 +1267,10 @@
     <DeckId>23ddb9a2-7c9c-467f-b6c6-5337f79dbe37</DeckId>
     <Name>亚洲竞技场法师</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_073</Id>
@@ -1481,7 +1368,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -1495,8 +1381,10 @@
     <DeckId>53a19c34-faa2-44b5-a0d7-3af14ff2f583</DeckId>
     <Name>778346154潜行者</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_235</Id>
@@ -1574,7 +1462,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -1588,8 +1475,10 @@
     <DeckId>86ee6070-46a0-4685-97dc-6cfd8bba4def</DeckId>
     <Name>614982784牧师</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>EX1_169</Id>
@@ -1703,7 +1592,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -1717,8 +1605,10 @@
     <DeckId>dca7ff6a-67ec-44b9-a0bb-d6dc11af82ba</DeckId>
     <Name>欧洲竞技场德鲁伊</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_072</Id>
@@ -1816,7 +1706,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -1830,8 +1719,10 @@
     <DeckId>fafaf1fe-4a42-4f92-9c44-ae2f04c36509</DeckId>
     <Name>2068652730潜行者</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_235</Id>
@@ -1917,7 +1808,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -1931,8 +1821,10 @@
     <DeckId>ffdbf565-1b49-46dd-b127-e896deb71a61</DeckId>
     <Name>1565913992牧师</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_005</Id>
@@ -2034,7 +1926,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -2048,8 +1939,10 @@
     <DeckId>192ab981-3946-4984-abd8-44ae3570773a</DeckId>
     <Name>2068652730德鲁伊</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>EX1_010</Id>
@@ -2159,7 +2052,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -2173,8 +2065,10 @@
     <DeckId>41a663a0-871b-42e1-97f8-5d959f2c8919</DeckId>
     <Name>654586985法师</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>EX1_371</Id>
@@ -2288,7 +2182,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -2302,8 +2195,10 @@
     <DeckId>91e62398-0e92-48da-b012-9646d7af19f1</DeckId>
     <Name>614982784圣骑士</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>NEW1_012</Id>
@@ -2425,7 +2320,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -2439,8 +2333,10 @@
     <DeckId>0e15ea1f-4304-4c3d-8713-44243f76efff</DeckId>
     <Name>美洲竞技场法师</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>EX1_169</Id>
@@ -2542,7 +2438,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -2556,8 +2451,10 @@
     <DeckId>ff5369b2-cad1-416d-9e19-8730bb76b444</DeckId>
     <Name>244657538德鲁伊</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>EX1_131</Id>
@@ -2663,7 +2560,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -2677,8 +2573,10 @@
     <DeckId>c4dddbe7-d99d-471a-b316-12a8ad6b5934</DeckId>
     <Name>美洲潜行者</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_097</Id>
@@ -2776,7 +2674,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -2790,8 +2687,10 @@
     <DeckId>06189092-331e-403d-8587-e0d3cd2e9a04</DeckId>
     <Name>244657538圣骑士</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>EX1_610</Id>
@@ -2893,7 +2792,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -2907,8 +2805,10 @@
     <DeckId>b5ddf687-d1bc-47d6-b5c5-221736c44664</DeckId>
     <Name>244657538猎人</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>EX1_610</Id>
@@ -3006,7 +2906,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -3020,8 +2919,10 @@
     <DeckId>ca21c52e-5f43-4f07-b34f-f5803126f7be</DeckId>
     <Name>654586985猎人</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_097</Id>
@@ -3119,7 +3020,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -3133,8 +3033,10 @@
     <DeckId>2ce4f8a7-232c-433a-92a1-11535fd9f5c5</DeckId>
     <Name>美洲圣骑士</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>EX1_158</Id>
@@ -3236,7 +3138,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -3250,8 +3151,10 @@
     <DeckId>e34c48e5-2c59-4c0d-9ad1-3c57c06957f5</DeckId>
     <Name>1565913992德鲁伊</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>EX1_169</Id>
@@ -3365,7 +3268,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -3379,8 +3281,10 @@
     <DeckId>0b3c20d2-eacd-419a-890c-aaae898ddec7</DeckId>
     <Name>美洲德鲁伊</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_091</Id>
@@ -3478,7 +3382,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -3492,8 +3395,10 @@
     <DeckId>c3dc6979-dcf5-4a0e-9601-87e332ad451d</DeckId>
     <Name>欧洲圣骑士</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_074</Id>
@@ -3603,7 +3508,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -3617,8 +3521,10 @@
     <DeckId>32b3deb1-ebb1-4f0e-a1ed-6d05a092e9f0</DeckId>
     <Name>亚洲潜行者</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_007</Id>
@@ -3708,7 +3614,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -3722,8 +3627,10 @@
     <DeckId>1c686449-774b-4cd1-b5ec-d1e120342560</DeckId>
     <Name>欧洲德鲁伊</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_007</Id>
@@ -3817,7 +3724,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -3831,8 +3737,10 @@
     <DeckId>791bd746-020f-4f30-b91f-94a7154c324d</DeckId>
     <Name>亚洲德鲁伊</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_045</Id>
@@ -3938,7 +3846,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -3952,8 +3859,10 @@
     <DeckId>515ec504-5aa8-460c-b14a-35feefc65a6c</DeckId>
     <Name>欧洲萨满</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_074</Id>
@@ -4059,7 +3968,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -4073,8 +3981,10 @@
     <DeckId>c0a4d513-20ba-4dc4-b05d-63d7a65d15fe</DeckId>
     <Name>欧洲潜行者</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_108</Id>
@@ -4188,7 +4098,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -4202,8 +4111,10 @@
     <DeckId>8bd064ad-eb07-48ba-a651-003704c535ed</DeckId>
     <Name>美洲战士</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_013</Id>
@@ -4313,7 +4224,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -4327,8 +4237,10 @@
     <DeckId>d0dbeae3-4474-4b58-b078-de6cd3708bf4</DeckId>
     <Name>1263028489德鲁伊</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_045</Id>
@@ -4414,7 +4326,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -4428,8 +4339,10 @@
     <DeckId>c1ed798c-0bcc-46fd-921f-2a98239af887</DeckId>
     <Name>卯兔萨满</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_045</Id>
@@ -4523,7 +4436,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -4537,8 +4449,10 @@
     <DeckId>4017edd3-6b99-49a4-9719-18bd33381f27</DeckId>
     <Name>丑牛萨满</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>EX1_302</Id>
@@ -4644,7 +4558,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -4658,8 +4571,10 @@
     <DeckId>a6aa2d41-305b-401a-990e-fbf41c69c4fd</DeckId>
     <Name>死亡之翼术士</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_108</Id>
@@ -4766,7 +4681,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -4780,8 +4694,10 @@
     <DeckId>5bf87c82-4f69-4ebc-9ffc-c870ab2fb41e</DeckId>
     <Name>欧洲战士</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_188</Id>
@@ -4872,7 +4788,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -4886,8 +4801,10 @@
     <DeckId>2f803a79-967e-4d0f-85be-9f16b955d8b1</DeckId>
     <Name>美洲术士</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>EX1_277</Id>
@@ -4966,7 +4883,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -4980,8 +4896,10 @@
     <DeckId>4d0b980d-6ca9-4874-a69c-d1f32ea4146e</DeckId>
     <Name>卯兔法师</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_073</Id>
@@ -5068,7 +4986,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -5082,8 +4999,10 @@
     <DeckId>dd202ad7-d81e-4455-9320-9de243500e1d</DeckId>
     <Name>654586985潜行者</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_106</Id>
@@ -5170,7 +5089,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -5184,8 +5102,10 @@
     <DeckId>5d000a33-ad43-462a-b1cb-31d2adb11dae</DeckId>
     <Name>亚洲战士</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>EX1_610</Id>
@@ -5296,7 +5216,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -5310,8 +5229,10 @@
     <DeckId>d2519f82-7cb5-48b3-b165-d654bd4c881a</DeckId>
     <Name>美洲猎人</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>EX1_243</Id>
@@ -5398,7 +5319,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -5412,8 +5332,10 @@
     <DeckId>3b249ba3-4d8a-47b1-a791-65ea4e7e0fa8</DeckId>
     <Name>子非鱼萨满</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>EX1_607</Id>
@@ -5496,7 +5418,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -5510,8 +5431,10 @@
     <DeckId>149d94c7-4a1b-4781-9a5a-1e8613f53521</DeckId>
     <Name>子非鱼战士</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_027</Id>
@@ -5610,7 +5533,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -5624,8 +5546,10 @@
     <DeckId>2cb0619d-880a-466f-a98d-40e983ef98ed</DeckId>
     <Name>亚洲法师</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_188</Id>
@@ -5720,7 +5644,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -5734,8 +5657,10 @@
     <DeckId>82f571bf-6720-4558-8b4d-5a6b009bbd51</DeckId>
     <Name>欧洲术士</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>EX1_308</Id>
@@ -5814,7 +5739,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -5828,8 +5752,10 @@
     <DeckId>e2d90367-5c17-4904-8cfa-328f20650cc3</DeckId>
     <Name>子非鱼术士</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_073</Id>
@@ -5907,7 +5833,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -5921,8 +5846,10 @@
     <DeckId>179fbb08-7b10-4154-b414-2a25f70f4d4c</DeckId>
     <Name>子非鱼潜行者</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_025</Id>
@@ -6032,7 +5959,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -6046,8 +5972,10 @@
     <DeckId>7338c317-6d06-474d-aff1-9067b49babb8</DeckId>
     <Name>霜之咏叹调法师</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_235</Id>
@@ -6137,7 +6065,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -6151,121 +6078,10 @@
     <DeckId>87c3ee4c-354f-4cb9-84c7-a53bebdbd27c</DeckId>
     <Name>丑牛牧师</Name>
     <SyncWithHearthStats xsi:nil="true" />
-  </Deck>
-  <Deck>
-    <Cards>
-      <Card>
-        <Id>EX1_621</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_003</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_235</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_234</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_236</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_341</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_339</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_622</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_335</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_591</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS1_112</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>GVG_083</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_624</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_623</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_200</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_350</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>GVG_110</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>FP1_013</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>GVG_079</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS1_113</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_620</Id>
-        <Count>2</Count>
-      </Card>
-    </Cards>
-    <Class>Priest</Class>
-    <HearthStatsId />
-    <LastEdited>2015-02-17T19:31:46.9880825+08:00</LastEdited>
-    <MissingCards />
-    <Note />
-    <SelectedVersion>
-      <Build>0</Build>
-      <Major>1</Major>
-      <Minor>0</Minor>
-      <Revision>0</Revision>
-    </SelectedVersion>
     <Tags />
-    <Url />
-    <Version>
-      <Build>0</Build>
-      <Major>1</Major>
-      <Minor>0</Minor>
-      <Revision>0</Revision>
-    </Version>
-    <DeckHistory />
-    <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
-    <IsArenaDeck>false</IsArenaDeck>
-    <DeckId>398981a6-033c-40fb-9374-6a1a0151cdd1</DeckId>
-    <Name>美洲牧师</Name>
-    <SyncWithHearthStats xsi:nil="true" />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>EX1_610</Id>
@@ -6367,7 +6183,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -6381,8 +6196,10 @@
     <DeckId>bda0d563-19ad-48ba-97c9-21ce455a1e19</DeckId>
     <Name>亚洲猎人</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>EX1_620</Id>
@@ -6492,7 +6309,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -6506,8 +6322,10 @@
     <DeckId>4dc27d01-eb1d-4804-898e-76ab9ae67efb</DeckId>
     <Name>此生谁料术士</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>EX1_277</Id>
@@ -6597,7 +6415,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -6611,8 +6428,10 @@
     <DeckId>07bc8aab-55f0-4845-b95d-c2b5c312fa17</DeckId>
     <Name>此生谁料法师</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_087</Id>
@@ -6698,7 +6517,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -6712,8 +6530,10 @@
     <DeckId>60a0a25e-c131-44fc-aecb-ee7f29627f16</DeckId>
     <Name>卯兔圣骑士</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>EX1_004</Id>
@@ -6799,7 +6619,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -6813,8 +6632,10 @@
     <DeckId>7b4fd707-a4e3-493a-a9f1-a24e54ffb767</DeckId>
     <Name>寅虎猎人</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>EX1_277</Id>
@@ -6896,7 +6717,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -6910,8 +6730,10 @@
     <DeckId>e9f5e0a3-1379-448a-8cd2-f65489d32300</DeckId>
     <Name>丑牛法师</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_084</Id>
@@ -7021,7 +6843,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -7035,8 +6856,10 @@
     <DeckId>31477f27-30b7-4374-a817-1df0ac18c626</DeckId>
     <Name>欧洲猎人</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_045</Id>
@@ -7122,7 +6945,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -7136,8 +6958,10 @@
     <DeckId>51e74004-5df0-4caf-8eab-242cfc71b01e</DeckId>
     <Name>此生谁料萨满</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>NEW1_012</Id>
@@ -7259,7 +7083,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -7273,8 +7096,10 @@
     <DeckId>d8030504-afb9-4f98-a15b-8fbb46d62ad5</DeckId>
     <Name>卯兔竞技场法师</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_188</Id>
@@ -7364,7 +7189,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -7378,8 +7202,10 @@
     <DeckId>1b5edc2d-79ca-4d49-8ef7-538c0fce2d08</DeckId>
     <Name>寅虎法师</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_182</Id>
@@ -7469,7 +7295,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -7483,8 +7308,10 @@
     <DeckId>906eee8a-3f1c-4a21-802e-3a7ba4dd960e</DeckId>
     <Name>寅虎战士</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>EX1_009</Id>
@@ -7562,7 +7389,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -7576,8 +7402,10 @@
     <DeckId>453cc2f7-07ed-436d-aa48-054c89cd9f27</DeckId>
     <Name>死亡之翼猎人</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_091</Id>
@@ -7659,7 +7487,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -7673,8 +7500,10 @@
     <DeckId>851a6f84-7850-4bc6-8922-8ef0f3a3226a</DeckId>
     <Name>霜之咏叹调圣骑士</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>EX1_308</Id>
@@ -7764,7 +7593,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -7778,8 +7606,10 @@
     <DeckId>77850eb8-c342-42f5-885c-230dda2076e9</DeckId>
     <Name>亚洲术士</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_091</Id>
@@ -7893,7 +7723,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -7907,8 +7736,10 @@
     <DeckId>87202cc8-aa7e-45e5-90f7-440901864cba</DeckId>
     <Name>寅虎竞技场圣骑士</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_091</Id>
@@ -7998,7 +7829,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -8012,8 +7842,10 @@
     <DeckId>d4202eb8-14fe-478a-90c7-b854bb6af747</DeckId>
     <Name>寅虎圣骑士</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <Deck>
+    <Archived>false</Archived>
     <Cards>
       <Card>
         <Id>CS2_188</Id>
@@ -8131,7 +7963,6 @@
       <Minor>0</Minor>
       <Revision>0</Revision>
     </SelectedVersion>
-    <Tags />
     <Url />
     <Version>
       <Build>0</Build>
@@ -8145,13 +7976,269 @@
     <DeckId>37b3ffdc-e9bc-4f92-887b-f095829c6c0a</DeckId>
     <Name>丑牛竞技场圣骑士</Name>
     <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
+  </Deck>
+  <Deck>
+    <Archived>false</Archived>
+    <Cards>
+      <Card>
+        <Id>NEW1_012</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_024</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_001</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_025</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_085</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_096</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_066</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_203</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_023</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_022</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_029</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_182</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_179</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_033</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>GVG_107</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_068</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_032</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_105</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_032</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>GVG_110</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>FP1_013</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_079</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_620</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_048</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Mage</Class>
+    <HearthStatsId />
+    <LastEdited>2015-04-09T22:24:38.9795708+08:00</LastEdited>
+    <MissingCards />
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
+    <IsArenaDeck>false</IsArenaDeck>
+    <DeckId>37633221-5ae5-49d4-9fd0-f062492d5f21</DeckId>
+    <Name>美洲法师</Name>
+    <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
+  </Deck>
+  <Deck>
+    <Archived>false</Archived>
+    <Cards>
+      <Card>
+        <Id>CS2_235</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_234</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_339</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_622</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS1_112</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_350</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_110</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>FP1_013</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_079</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_085</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_203</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_125</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_182</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_057</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_107</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_179</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_048</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_093</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>FP1_014</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_564</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS1_069</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>FP1_030</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>FP1_012</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>FP1_015</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_032</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_162</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Priest</Class>
+    <HearthStatsId />
+    <LastEdited>2015-04-09T23:05:13.3728101+08:00</LastEdited>
+    <MissingCards />
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
+    <IsArenaDeck>false</IsArenaDeck>
+    <DeckId>398981a6-033c-40fb-9374-6a1a0151cdd1</DeckId>
+    <Name>美洲牧师</Name>
+    <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
   </Deck>
   <LastDeckClass>
-    <DeckInfo>
-      <Class>Priest</Class>
-      <Id>398981a6-033c-40fb-9374-6a1a0151cdd1</Id>
-      <Name>美洲牧师</Name>
-    </DeckInfo>
     <DeckInfo>
       <Class>Rogue</Class>
       <Id>32b3deb1-ebb1-4f0e-a1ed-6d05a092e9f0</Id>
@@ -8178,19 +8265,24 @@
       <Name>亚洲术士</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Druid</Class>
-      <Id>e34c48e5-2c59-4c0d-9ad1-3c57c06957f5</Id>
-      <Name>1565913992德鲁伊</Name>
-    </DeckInfo>
-    <DeckInfo>
-      <Class>Mage</Class>
-      <Id>d8030504-afb9-4f98-a15b-8fbb46d62ad5</Id>
-      <Name>卯兔竞技场法师</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Paladin</Class>
       <Id>37b3ffdc-e9bc-4f92-887b-f095829c6c0a</Id>
       <Name>丑牛竞技场圣骑士</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Mage</Class>
+      <Id>37633221-5ae5-49d4-9fd0-f062492d5f21</Id>
+      <Name>美洲法师</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Priest</Class>
+      <Id>398981a6-033c-40fb-9374-6a1a0151cdd1</Id>
+      <Name>美洲牧师</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Druid</Class>
+      <Id>0b3c20d2-eacd-419a-890c-aaae898ddec7</Id>
+      <Name>美洲德鲁伊</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
