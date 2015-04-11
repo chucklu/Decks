@@ -1037,120 +1037,6 @@
     <Archived>false</Archived>
     <Cards>
       <Card>
-        <Id>CS2_045</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_565</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_173</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_066</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_246</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_412</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_575</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_124</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_182</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_179</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_048</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_587</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_046</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS1_069</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_187</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_614</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_032</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_200</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_067</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_162</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_222</Id>
-        <Count>2</Count>
-      </Card>
-    </Cards>
-    <Class>Shaman</Class>
-    <HearthStatsId />
-    <LastEdited>2014-12-07T11:14:39.0093107+08:00</LastEdited>
-    <MissingCards />
-    <Note />
-    <SelectedVersion>
-      <Build>0</Build>
-      <Major>1</Major>
-      <Minor>0</Minor>
-      <Revision>0</Revision>
-    </SelectedVersion>
-    <Url />
-    <Version>
-      <Build>0</Build>
-      <Major>1</Major>
-      <Minor>0</Minor>
-      <Revision>0</Revision>
-    </Version>
-    <DeckHistory />
-    <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
-    <IsArenaDeck>false</IsArenaDeck>
-    <DeckId>e5a860d8-6e3b-43a1-9fa2-b9288146b06f</DeckId>
-    <Name>1263028489萨满</Name>
-    <SyncWithHearthStats xsi:nil="true" />
-    <Tags />
-  </Deck>
-  <Deck>
-    <Archived>false</Archived>
-    <Cards>
-      <Card>
         <Id>EX1_277</Id>
         <Count>1</Count>
       </Card>
@@ -8704,6 +8590,128 @@
     <SyncWithHearthStats xsi:nil="true" />
     <Tags />
   </Deck>
+  <Deck>
+    <Archived>false</Archived>
+    <Cards>
+      <Card>
+        <Id>CS2_045</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_565</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_066</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_246</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_575</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_182</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_179</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_048</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_587</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_046</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS1_069</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_187</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_614</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_032</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_200</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_162</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_247</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_037</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_091</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_226</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_042</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>GVG_079</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>NEW1_038</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Shaman</Class>
+    <HearthStatsId />
+    <LastEdited>2015-04-11T21:45:26.6653892+08:00</LastEdited>
+    <MissingCards />
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
+    <IsArenaDeck>false</IsArenaDeck>
+    <DeckId>e5a860d8-6e3b-43a1-9fa2-b9288146b06f</DeckId>
+    <Name>寅虎萨满</Name>
+    <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Rogue</Class>
@@ -8736,19 +8744,19 @@
       <Name>霜之咏叹调圣骑士</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Shaman</Class>
-      <Id>03bd3c9d-0d34-49ed-8781-ace1234d8928</Id>
-      <Name>死亡之翼萨满</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Mage</Class>
       <Id>07bc8aab-55f0-4845-b95d-c2b5c312fa17</Id>
       <Name>此生谁料法师</Name>
     </DeckInfo>
     <DeckInfo>
       <Class>Warrior</Class>
-      <Id>e8c50ee7-f095-40e3-8ad9-c72a577671e4</Id>
-      <Name>卯兔战士</Name>
+      <Id>906eee8a-3f1c-4a21-802e-3a7ba4dd960e</Id>
+      <Name>寅虎战士</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Shaman</Class>
+      <Id>e5a860d8-6e3b-43a1-9fa2-b9288146b06f</Id>
+      <Name>寅虎萨满</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
