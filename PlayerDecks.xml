@@ -6512,121 +6512,6 @@
   <Deck>
     <Cards>
       <Card>
-        <Id>CS2_188</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_319</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_065</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>GVG_015</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_162</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>NEW1_019</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_093</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_046</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_316</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_029</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>GVG_085</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>FP1_007</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_203</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>FP1_002</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>GVG_096</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_310</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>GVG_021</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>NEW1_030</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_303</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>GVG_045</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>BRM_006</Id>
-        <Count>2</Count>
-      </Card>
-    </Cards>
-    <Class>Warlock</Class>
-    <HearthStatsDeckVersionId />
-    <HearthStatsId />
-    <LastEdited>2015-08-22T19:43:11.3052004+08:00</LastEdited>
-    <MissingCards />
-    <Url />
-    <Version>
-      <Build>0</Build>
-      <Major>1</Major>
-      <Minor>0</Minor>
-      <Revision>0</Revision>
-    </Version>
-    <DeckHistory />
-    <Archived>false</Archived>
-    <Note />
-    <SelectedVersion>
-      <Build>0</Build>
-      <Major>1</Major>
-      <Minor>0</Minor>
-      <Revision>0</Revision>
-    </SelectedVersion>
-    <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
-    <IsArenaDeck>false</IsArenaDeck>
-    <DeckId>e2d90367-5c17-4904-8cfa-328f20650cc3</DeckId>
-    <Name>子非鱼术士</Name>
-    <SyncWithHearthStats xsi:nil="true" />
-    <Tags />
-  </Deck>
-  <Deck>
-    <Cards>
-      <Card>
         <Id>CS2_073</Id>
         <Count>1</Count>
       </Card>
@@ -12581,6 +12466,225 @@
     <SyncWithHearthStats xsi:nil="true" />
     <Tags />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>EX1_316</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_188</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_319</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_065</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>GVG_015</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>NEW1_019</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>FP1_002</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_203</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>FP1_007</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_556</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>BRM_006</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>GVG_045</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_093</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>FP1_022</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>GVG_107</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_096</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_310</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>GVG_021</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Warlock</Class>
+    <HearthStatsDeckVersionId />
+    <HearthStatsId />
+    <LastEdited>2015-10-31T23:09:25.4432897+08:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>2</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory>
+      <Deck>
+        <Cards>
+          <Card>
+            <Id>EX1_316</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>CS2_188</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>EX1_319</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>EX1_029</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>CS2_065</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>GVG_015</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>GVG_085</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>NEW1_019</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>FP1_002</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>EX1_162</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>CS2_203</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>FP1_007</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>BRM_006</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>EX1_303</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>GVG_045</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>EX1_093</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>EX1_046</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>GVG_096</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>EX1_310</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>GVG_021</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>NEW1_030</Id>
+            <Count>1</Count>
+          </Card>
+        </Cards>
+        <Class>Warlock</Class>
+        <HearthStatsDeckVersionId />
+        <HearthStatsId />
+        <LastEdited>2015-08-22T19:43:11.3052004+08:00</LastEdited>
+        <MissingCards />
+        <Url />
+        <Version>
+          <Build>0</Build>
+          <Major>1</Major>
+          <Minor>0</Minor>
+          <Revision>0</Revision>
+        </Version>
+        <DeckHistory />
+        <Archived>false</Archived>
+        <Note />
+        <SelectedVersion>
+          <Build>0</Build>
+          <Major>1</Major>
+          <Minor>0</Minor>
+          <Revision>0</Revision>
+        </SelectedVersion>
+        <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
+        <IsArenaDeck>false</IsArenaDeck>
+        <DeckId>20fd4e75-61fe-4aea-b578-d983037818a9</DeckId>
+        <Name>子非鱼术士</Name>
+        <SyncWithHearthStats xsi:nil="true" />
+        <Tags />
+      </Deck>
+    </DeckHistory>
+    <Archived>false</Archived>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>2</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
+    <IsArenaDeck>false</IsArenaDeck>
+    <DeckId>e2d90367-5c17-4904-8cfa-328f20650cc3</DeckId>
+    <Name>244657538术士</Name>
+    <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Shaman</Class>
@@ -12598,11 +12702,6 @@
       <Name>244657538牧师</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Hunter</Class>
-      <Id>b5ddf687-d1bc-47d6-b5c5-221736c44664</Id>
-      <Name>244657538猎人</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Warrior</Class>
       <Id>906eee8a-3f1c-4a21-802e-3a7ba4dd960e</Id>
       <Name>1263028489战士</Name>
@@ -12618,14 +12717,19 @@
       <Name>寅虎圣骑士</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Warlock</Class>
-      <Id>a8fe2567-b6b6-490c-8833-10b69ec0e76f</Id>
-      <Name>丑牛术士</Name>
+      <Class>Hunter</Class>
+      <Id>453cc2f7-07ed-436d-aa48-054c89cd9f27</Id>
+      <Name>614982784猎人</Name>
     </DeckInfo>
     <DeckInfo>
       <Class>Rogue</Class>
       <Id>179fbb08-7b10-4154-b414-2a25f70f4d4c</Id>
       <Name>244657538潜行者</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Warlock</Class>
+      <Id>e2d90367-5c17-4904-8cfa-328f20650cc3</Id>
+      <Name>244657538术士</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
