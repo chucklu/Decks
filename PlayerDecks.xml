@@ -878,108 +878,6 @@
   <Deck>
     <Cards>
       <Card>
-        <Id>CS2_235</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_508</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_189</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_168</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_506</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_029</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_173</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_066</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_393</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_196</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_122</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_412</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_124</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_019</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>tt_004</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_007</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_021</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS1_112</Id>
-        <Count>2</Count>
-      </Card>
-    </Cards>
-    <Class>Priest</Class>
-    <HearthStatsId />
-    <LastEdited>2014-12-08T20:03:08.8330853+08:00</LastEdited>
-    <MissingCards />
-    <Url />
-    <Version>
-      <Build>0</Build>
-      <Major>1</Major>
-      <Minor>0</Minor>
-      <Revision>0</Revision>
-    </Version>
-    <DeckHistory />
-    <Archived>false</Archived>
-    <Note />
-    <SelectedVersion>
-      <Build>0</Build>
-      <Major>1</Major>
-      <Minor>0</Minor>
-      <Revision>0</Revision>
-    </SelectedVersion>
-    <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
-    <IsArenaDeck>false</IsArenaDeck>
-    <DeckId>ffdbf565-1b49-46dd-b127-e896deb71a61</DeckId>
-    <Name>1565913992牧师</Name>
-    <SyncWithHearthStats xsi:nil="true" />
-    <Tags />
-  </Deck>
-  <Deck>
-    <Cards>
-      <Card>
         <Id>EX1_010</Id>
         <Count>1</Count>
       </Card>
@@ -1416,124 +1314,6 @@
   <Deck>
     <Cards>
       <Card>
-        <Id>EX1_158</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_012</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_182</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_057</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_179</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>GVG_068</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_048</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>GVG_074</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_119</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_197</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_200</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_396</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_046</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_187</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_226</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_283</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_162</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_033</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_186</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_222</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_161</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>NEW1_007</Id>
-        <Count>1</Count>
-      </Card>
-    </Cards>
-    <Class>Druid</Class>
-    <HearthStatsId />
-    <LastEdited>2015-01-11T19:06:54.6557504+08:00</LastEdited>
-    <MissingCards />
-    <Url />
-    <Version>
-      <Build>0</Build>
-      <Major>1</Major>
-      <Minor>0</Minor>
-      <Revision>0</Revision>
-    </Version>
-    <DeckHistory />
-    <Archived>false</Archived>
-    <Note />
-    <SelectedVersion>
-      <Build>0</Build>
-      <Major>1</Major>
-      <Minor>0</Minor>
-      <Revision>0</Revision>
-    </SelectedVersion>
-    <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
-    <IsArenaDeck>false</IsArenaDeck>
-    <DeckId>e34c48e5-2c59-4c0d-9ad1-3c57c06957f5</DeckId>
-    <Name>1565913992德鲁伊</Name>
-    <SyncWithHearthStats xsi:nil="true" />
-    <Tags />
-  </Deck>
-  <Deck>
-    <Cards>
-      <Card>
         <Id>CS2_007</Id>
         <Count>1</Count>
       </Card>
@@ -1760,108 +1540,6 @@
     <IsArenaDeck>false</IsArenaDeck>
     <DeckId>d0dbeae3-4474-4b58-b078-de6cd3708bf4</DeckId>
     <Name>1263028489德鲁伊</Name>
-    <SyncWithHearthStats xsi:nil="true" />
-    <Tags />
-  </Deck>
-  <Deck>
-    <Cards>
-      <Card>
-        <Id>CS2_045</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_508</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_168</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_506</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_029</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>GVG_064</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_565</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_173</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_393</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_196</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_122</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_412</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_390</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_124</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_019</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>tt_004</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_007</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_021</Id>
-        <Count>1</Count>
-      </Card>
-    </Cards>
-    <Class>Shaman</Class>
-    <HearthStatsId />
-    <LastEdited>2015-02-08T17:19:38.6350409+08:00</LastEdited>
-    <MissingCards />
-    <Url />
-    <Version>
-      <Build>0</Build>
-      <Major>1</Major>
-      <Minor>0</Minor>
-      <Revision>0</Revision>
-    </Version>
-    <DeckHistory />
-    <Archived>false</Archived>
-    <Note />
-    <SelectedVersion>
-      <Build>0</Build>
-      <Major>1</Major>
-      <Minor>0</Minor>
-      <Revision>0</Revision>
-    </SelectedVersion>
-    <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
-    <IsArenaDeck>false</IsArenaDeck>
-    <DeckId>c1ed798c-0bcc-46fd-921f-2a98239af887</DeckId>
-    <Name>卯兔萨满</Name>
     <SyncWithHearthStats xsi:nil="true" />
     <Tags />
   </Deck>
@@ -6250,112 +5928,6 @@
   <Deck>
     <Cards>
       <Card>
-        <Id>CS2_182</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>NEW1_011</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_179</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_048</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_119</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_595</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_197</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_396</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_046</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS1_069</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_187</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_614</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_283</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_032</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_200</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_162</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_186</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_161</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_222</Id>
-        <Count>1</Count>
-      </Card>
-    </Cards>
-    <Class>Warrior</Class>
-    <HearthStatsId />
-    <LastEdited>2015-08-09T23:49:08.1589129+08:00</LastEdited>
-    <MissingCards />
-    <Url />
-    <Version>
-      <Build>0</Build>
-      <Major>1</Major>
-      <Minor>0</Minor>
-      <Revision>0</Revision>
-    </Version>
-    <DeckHistory />
-    <Archived>false</Archived>
-    <Note />
-    <SelectedVersion>
-      <Build>0</Build>
-      <Major>1</Major>
-      <Minor>0</Minor>
-      <Revision>0</Revision>
-    </SelectedVersion>
-    <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
-    <IsArenaDeck>false</IsArenaDeck>
-    <DeckId>906eee8a-3f1c-4a21-802e-3a7ba4dd960e</DeckId>
-    <Name>1263028489战士</Name>
-    <SyncWithHearthStats xsi:nil="true" />
-    <Tags />
-  </Deck>
-  <Deck>
-    <Cards>
-      <Card>
         <Id>CS2_005</Id>
         <Count>1</Count>
       </Card>
@@ -6512,109 +6084,94 @@
   <Deck>
     <Cards>
       <Card>
-        <Id>CS2_073</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_074</Id>
+        <Id>CS2_188</Id>
         <Count>2</Count>
       </Card>
       <Card>
-        <Id>EX1_126</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_131</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_129</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_182</Id>
+        <Id>EX1_319</Id>
         <Count>2</Count>
       </Card>
       <Card>
-        <Id>CS2_179</Id>
+        <Id>CS2_065</Id>
         <Count>2</Count>
       </Card>
       <Card>
-        <Id>CS2_080</Id>
+        <Id>GVG_015</Id>
         <Count>1</Count>
       </Card>
       <Card>
-        <Id>CS2_076</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_097</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS1_069</Id>
+        <Id>EX1_162</Id>
         <Count>2</Count>
       </Card>
       <Card>
-        <Id>CS2_187</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_032</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_200</Id>
+        <Id>NEW1_019</Id>
         <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_162</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_233</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>GVG_085</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_066</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_125</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>GVG_068</Id>
-        <Count>1</Count>
       </Card>
       <Card>
         <Id>EX1_093</Id>
         <Count>1</Count>
       </Card>
       <Card>
-        <Id>EX1_283</Id>
+        <Id>EX1_046</Id>
         <Count>1</Count>
       </Card>
       <Card>
-        <Id>CS2_186</Id>
+        <Id>EX1_316</Id>
         <Count>1</Count>
       </Card>
       <Card>
-        <Id>GVG_079</Id>
+        <Id>EX1_029</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>GVG_085</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>FP1_007</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_203</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>FP1_002</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_096</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_310</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_021</Id>
         <Count>1</Count>
       </Card>
       <Card>
         <Id>NEW1_030</Id>
         <Count>1</Count>
       </Card>
+      <Card>
+        <Id>EX1_303</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_045</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>BRM_006</Id>
+        <Count>2</Count>
+      </Card>
     </Cards>
-    <Class>Rogue</Class>
+    <Class>Warlock</Class>
+    <HearthStatsDeckVersionId />
     <HearthStatsId />
-    <LastEdited>2015-08-28T20:01:42.7322929+08:00</LastEdited>
+    <LastEdited>2015-08-22T19:43:11.3052004+08:00</LastEdited>
     <MissingCards />
     <Url />
     <Version>
@@ -6634,8 +6191,8 @@
     </SelectedVersion>
     <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
     <IsArenaDeck>false</IsArenaDeck>
-    <DeckId>53a19c34-faa2-44b5-a0d7-3af14ff2f583</DeckId>
-    <Name>778346154潜行者</Name>
+    <DeckId>e2d90367-5c17-4904-8cfa-328f20650cc3</DeckId>
+    <Name>子非鱼术士</Name>
     <SyncWithHearthStats xsi:nil="true" />
     <Tags />
   </Deck>
@@ -12469,82 +12026,644 @@
   <Deck>
     <Cards>
       <Card>
-        <Id>EX1_316</Id>
+        <Id>EX1_169</Id>
         <Count>2</Count>
       </Card>
       <Card>
-        <Id>CS2_188</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_319</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_065</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>GVG_015</Id>
+        <Id>GVG_085</Id>
         <Count>1</Count>
       </Card>
       <Card>
-        <Id>NEW1_019</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>FP1_002</Id>
-        <Count>2</Count>
+        <Id>EX1_066</Id>
+        <Count>1</Count>
       </Card>
       <Card>
         <Id>CS2_203</Id>
         <Count>1</Count>
       </Card>
       <Card>
-        <Id>FP1_007</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_556</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>BRM_006</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>GVG_045</Id>
+        <Id>CS2_007</Id>
         <Count>1</Count>
       </Card>
       <Card>
-        <Id>EX1_093</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>FP1_022</Id>
+        <Id>CS2_012</Id>
         <Count>2</Count>
       </Card>
       <Card>
-        <Id>GVG_107</Id>
+        <Id>CS2_182</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_057</Id>
         <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_048</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_179</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>GVG_068</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_197</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_151</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_187</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_165</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS1_069</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_173</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_283</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_162</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_200</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_232</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_079</Id>
+        <Count>2</Count>
+      </Card>
+    </Cards>
+    <Class>Druid</Class>
+    <HearthStatsId />
+    <LastEdited>2015-11-02T05:12:04.5562517+08:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <Archived>false</Archived>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
+    <IsArenaDeck>false</IsArenaDeck>
+    <DeckId>e34c48e5-2c59-4c0d-9ad1-3c57c06957f5</DeckId>
+    <Name>1565913992德鲁伊</Name>
+    <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
+  </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>CS2_045</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_508</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_029</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_168</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_393</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_565</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_173</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>GVG_064</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_506</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_412</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>tt_004</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_124</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_019</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_021</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_196</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_122</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_046</Id>
+        <Count>2</Count>
+      </Card>
+    </Cards>
+    <Class>Shaman</Class>
+    <HearthStatsId />
+    <LastEdited>2015-11-04T19:23:02.4005597+08:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <Archived>false</Archived>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
+    <IsArenaDeck>false</IsArenaDeck>
+    <DeckId>c1ed798c-0bcc-46fd-921f-2a98239af887</DeckId>
+    <Name>1565913992萨满</Name>
+    <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
+  </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>CS2_182</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_046</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>NEW1_011</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_119</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_396</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_048</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_179</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_197</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_595</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_187</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS1_069</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_283</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_162</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_032</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_200</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_614</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_222</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_161</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_186</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Warrior</Class>
+    <HearthStatsId />
+    <LastEdited>2015-11-04T19:40:55.1429171+08:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <Archived>false</Archived>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
+    <IsArenaDeck>false</IsArenaDeck>
+    <DeckId>906eee8a-3f1c-4a21-802e-3a7ba4dd960e</DeckId>
+    <Name>1263028489战士</Name>
+    <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
+  </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>CS2_003</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>AT_013</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_235</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_001</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_234</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>AT_015</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_622</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_339</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_005</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_182</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>GVG_074</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_057</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_179</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS1_112</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_187</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_226</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_624</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_162</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_110</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>AT_099</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_200</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>GVG_110</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Priest</Class>
+    <HearthStatsId />
+    <LastEdited>2015-11-08T02:42:37.7684495+08:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <Archived>false</Archived>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
+    <IsArenaDeck>false</IsArenaDeck>
+    <DeckId>ffdbf565-1b49-46dd-b127-e896deb71a61</DeckId>
+    <Name>1565913992牧师</Name>
+    <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
+  </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>CS2_235</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_234</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_622</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_339</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_010</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_125</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_005</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_182</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_046</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_048</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_179</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>GVG_068</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_197</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS1_112</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_187</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS1_069</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_162</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>AT_099</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_032</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_200</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_614</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>NEW1_038</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Priest</Class>
+    <HearthStatsId />
+    <LastEdited>2015-11-08T04:02:57.6611316+08:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <Archived>false</Archived>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
+    <IsArenaDeck>false</IsArenaDeck>
+    <DeckId>6b9ec3cb-7a11-4e1d-b57e-07e221717144</DeckId>
+    <Name>1263028489牧师</Name>
+    <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
+  </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>CS2_072</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_074</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_146</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_124</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_278</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_233</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_581</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>GVG_023</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_142</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_066</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_129</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_117</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>GVG_022</Id>
+        <Count>2</Count>
       </Card>
       <Card>
         <Id>GVG_096</Id>
         <Count>2</Count>
       </Card>
       <Card>
-        <Id>EX1_310</Id>
+        <Id>CS2_147</Id>
         <Count>2</Count>
       </Card>
       <Card>
-        <Id>GVG_021</Id>
+        <Id>CS2_080</Id>
         <Count>1</Count>
       </Card>
+      <Card>
+        <Id>EX1_284</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_593</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_077</Id>
+        <Count>2</Count>
+      </Card>
     </Cards>
-    <Class>Warlock</Class>
+    <Class>Rogue</Class>
     <HearthStatsDeckVersionId />
     <HearthStatsId />
-    <LastEdited>2015-10-31T23:09:25.4432897+08:00</LastEdited>
+    <LastEdited>2015-11-08T19:57:27.5963223+08:00</LastEdited>
     <MissingCards />
     <Url />
     <Version>
@@ -12557,63 +12676,43 @@
       <Deck>
         <Cards>
           <Card>
-            <Id>EX1_316</Id>
+            <Id>CS2_073</Id>
             <Count>1</Count>
           </Card>
           <Card>
-            <Id>CS2_188</Id>
+            <Id>CS2_074</Id>
             <Count>2</Count>
           </Card>
           <Card>
-            <Id>EX1_319</Id>
-            <Count>2</Count>
+            <Id>EX1_126</Id>
+            <Count>1</Count>
           </Card>
           <Card>
-            <Id>EX1_029</Id>
-            <Count>2</Count>
-          </Card>
-          <Card>
-            <Id>CS2_065</Id>
-            <Count>2</Count>
-          </Card>
-          <Card>
-            <Id>GVG_015</Id>
+            <Id>CS2_233</Id>
             <Count>1</Count>
           </Card>
           <Card>
             <Id>GVG_085</Id>
-            <Count>2</Count>
-          </Card>
-          <Card>
-            <Id>NEW1_019</Id>
-            <Count>2</Count>
-          </Card>
-          <Card>
-            <Id>FP1_002</Id>
             <Count>1</Count>
           </Card>
           <Card>
-            <Id>EX1_162</Id>
-            <Count>2</Count>
-          </Card>
-          <Card>
-            <Id>CS2_203</Id>
+            <Id>EX1_131</Id>
             <Count>1</Count>
           </Card>
           <Card>
-            <Id>FP1_007</Id>
-            <Count>2</Count>
-          </Card>
-          <Card>
-            <Id>BRM_006</Id>
-            <Count>2</Count>
-          </Card>
-          <Card>
-            <Id>EX1_303</Id>
+            <Id>EX1_066</Id>
             <Count>1</Count>
           </Card>
           <Card>
-            <Id>GVG_045</Id>
+            <Id>EX1_129</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>CS2_125</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>EX1_005</Id>
             <Count>1</Count>
           </Card>
           <Card>
@@ -12621,19 +12720,55 @@
             <Count>1</Count>
           </Card>
           <Card>
-            <Id>EX1_046</Id>
+            <Id>CS2_182</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>CS2_179</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>GVG_068</Id>
             <Count>1</Count>
           </Card>
           <Card>
-            <Id>GVG_096</Id>
+            <Id>CS2_080</Id>
             <Count>1</Count>
           </Card>
           <Card>
-            <Id>EX1_310</Id>
+            <Id>CS2_076</Id>
             <Count>1</Count>
           </Card>
           <Card>
-            <Id>GVG_021</Id>
+            <Id>CS2_187</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>EX1_097</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>CS1_069</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>CS2_162</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>EX1_032</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>CS2_200</Id>
+            <Count>2</Count>
+          </Card>
+          <Card>
+            <Id>CS2_186</Id>
+            <Count>1</Count>
+          </Card>
+          <Card>
+            <Id>GVG_079</Id>
             <Count>1</Count>
           </Card>
           <Card>
@@ -12641,10 +12776,9 @@
             <Count>1</Count>
           </Card>
         </Cards>
-        <Class>Warlock</Class>
-        <HearthStatsDeckVersionId />
+        <Class>Rogue</Class>
         <HearthStatsId />
-        <LastEdited>2015-08-22T19:43:11.3052004+08:00</LastEdited>
+        <LastEdited>2015-11-08T19:32:38.3161404+08:00</LastEdited>
         <MissingCards />
         <Url />
         <Version>
@@ -12664,8 +12798,8 @@
         </SelectedVersion>
         <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
         <IsArenaDeck>false</IsArenaDeck>
-        <DeckId>20fd4e75-61fe-4aea-b578-d983037818a9</DeckId>
-        <Name>子非鱼术士</Name>
+        <DeckId>eefc5c25-3a56-4c2f-89c5-32ab431a2034</DeckId>
+        <Name>778346154潜行者</Name>
         <SyncWithHearthStats xsi:nil="true" />
         <Tags />
       </Deck>
@@ -12680,56 +12814,150 @@
     </SelectedVersion>
     <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
     <IsArenaDeck>false</IsArenaDeck>
-    <DeckId>e2d90367-5c17-4904-8cfa-328f20650cc3</DeckId>
-    <Name>244657538术士</Name>
+    <DeckId>53a19c34-faa2-44b5-a0d7-3af14ff2f583</DeckId>
+    <Name>778346154潜行者</Name>
+    <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
+  </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>CS2_108</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_106</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_114</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_105</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_066</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_124</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_019</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_125</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_084</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_182</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>NEW1_011</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_179</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_147</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_112</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_593</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_200</Id>
+        <Count>2</Count>
+      </Card>
+    </Cards>
+    <Class>Warrior</Class>
+    <HearthStatsId />
+    <LastEdited>2015-11-08T20:51:43.2265337+08:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <Archived>false</Archived>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
+    <IsArenaDeck>false</IsArenaDeck>
+    <DeckId>5b146d2a-8947-41ed-a916-442a2f75dc96</DeckId>
+    <Name>614982784战士</Name>
     <SyncWithHearthStats xsi:nil="true" />
     <Tags />
   </Deck>
   <LastDeckClass>
-    <DeckInfo>
-      <Class>Shaman</Class>
-      <Id>3b249ba3-4d8a-47b1-a791-65ea4e7e0fa8</Id>
-      <Name>244657538萨满</Name>
-    </DeckInfo>
-    <DeckInfo>
-      <Class>Druid</Class>
-      <Id>ff5369b2-cad1-416d-9e19-8730bb76b444</Id>
-      <Name>244657538德鲁伊</Name>
-    </DeckInfo>
-    <DeckInfo>
-      <Class>Priest</Class>
-      <Id>185c6a24-ef70-431f-b27b-0e0421c1a11c</Id>
-      <Name>244657538牧师</Name>
-    </DeckInfo>
-    <DeckInfo>
-      <Class>Warrior</Class>
-      <Id>906eee8a-3f1c-4a21-802e-3a7ba4dd960e</Id>
-      <Name>1263028489战士</Name>
-    </DeckInfo>
     <DeckInfo>
       <Class>Mage</Class>
       <Id>1b5edc2d-79ca-4d49-8ef7-538c0fce2d08</Id>
       <Name>1263028489法师</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Paladin</Class>
-      <Id>d4202eb8-14fe-478a-90c7-b854bb6af747</Id>
-      <Name>寅虎圣骑士</Name>
-    </DeckInfo>
-    <DeckInfo>
-      <Class>Hunter</Class>
-      <Id>453cc2f7-07ed-436d-aa48-054c89cd9f27</Id>
-      <Name>614982784猎人</Name>
-    </DeckInfo>
-    <DeckInfo>
-      <Class>Rogue</Class>
-      <Id>179fbb08-7b10-4154-b414-2a25f70f4d4c</Id>
-      <Name>244657538潜行者</Name>
+      <Class>Druid</Class>
+      <Id>e34c48e5-2c59-4c0d-9ad1-3c57c06957f5</Id>
+      <Name>1565913992德鲁伊</Name>
     </DeckInfo>
     <DeckInfo>
       <Class>Warlock</Class>
-      <Id>e2d90367-5c17-4904-8cfa-328f20650cc3</Id>
-      <Name>244657538术士</Name>
+      <Id>5a5beaf5-c640-4ac0-946a-bbe95bc28d33</Id>
+      <Name>1263028489术士</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Hunter</Class>
+      <Id>ca21c52e-5f43-4f07-b34f-f5803126f7be</Id>
+      <Name>654586985猎人</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Paladin</Class>
+      <Id>06189092-331e-403d-8587-e0d3cd2e9a04</Id>
+      <Name>244657538圣骑士</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Shaman</Class>
+      <Id>515ec504-5aa8-460c-b14a-35feefc65a6c</Id>
+      <Name>欧洲萨满</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Priest</Class>
+      <Id>6b9ec3cb-7a11-4e1d-b57e-07e221717144</Id>
+      <Name>1263028489牧师</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Rogue</Class>
+      <Id>53a19c34-faa2-44b5-a0d7-3af14ff2f583</Id>
+      <Name>778346154潜行者</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Warrior</Class>
+      <Id>5b146d2a-8947-41ed-a916-442a2f75dc96</Id>
+      <Name>614982784战士</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
