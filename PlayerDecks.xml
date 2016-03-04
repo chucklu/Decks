@@ -4548,136 +4548,6 @@
   <Deck>
     <Cards>
       <Card>
-        <Id>FP1_025</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>GVG_085</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_096</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_565</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_066</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_246</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_182</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_057</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_179</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_048</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_587</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_197</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_046</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>FP1_014</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>FP1_030</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>FP1_012</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_187</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>FP1_015</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_042</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_032</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_200</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_162</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>GVG_110</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_561</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>FP1_013</Id>
-        <Count>1</Count>
-      </Card>
-    </Cards>
-    <Class>Shaman</Class>
-    <HearthStatsId />
-    <LastEdited>2015-06-13T03:04:16.9440489+08:00</LastEdited>
-    <MissingCards />
-    <Url />
-    <Version>
-      <Build>0</Build>
-      <Major>1</Major>
-      <Minor>0</Minor>
-      <Revision>0</Revision>
-    </Version>
-    <DeckHistory />
-    <Archived>false</Archived>
-    <Note />
-    <SelectedVersion>
-      <Build>0</Build>
-      <Major>1</Major>
-      <Minor>0</Minor>
-      <Revision>0</Revision>
-    </SelectedVersion>
-    <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
-    <IsArenaDeck>false</IsArenaDeck>
-    <DeckId>ebb62b4c-6afc-465c-ac38-a1474d6f8b57</DeckId>
-    <Name>美洲萨满</Name>
-    <SyncWithHearthStats xsi:nil="true" />
-    <Tags />
-  </Deck>
-  <Deck>
-    <Cards>
-      <Card>
         <Id>EX1_405</Id>
         <Count>1</Count>
       </Card>
@@ -14455,16 +14325,141 @@
     <SyncWithHearthStats xsi:nil="true" />
     <Tags />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>FP1_025</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_085</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_565</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_066</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_096</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_246</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>AT_048</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_182</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_057</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_048</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_179</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_197</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_046</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_187</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>FP1_015</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_069</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>FP1_014</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>FP1_012</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_042</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_162</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_032</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_200</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_110</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>FP1_013</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_561</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Shaman</Class>
+    <HearthStatsId />
+    <LastEdited>2016-03-04T21:43:18.9841313+08:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <Archived>false</Archived>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
+    <IsArenaDeck>false</IsArenaDeck>
+    <DeckId>ebb62b4c-6afc-465c-ac38-a1474d6f8b57</DeckId>
+    <Name>美洲萨满</Name>
+    <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Druid</Class>
       <Id>0b3c20d2-eacd-419a-890c-aaae898ddec7</Id>
       <Name>美洲德鲁伊</Name>
-    </DeckInfo>
-    <DeckInfo>
-      <Class>Shaman</Class>
-      <Id>3b249ba3-4d8a-47b1-a791-65ea4e7e0fa8</Id>
-      <Name>244657538萨满</Name>
     </DeckInfo>
     <DeckInfo>
       <Class>Priest</Class>
@@ -14500,6 +14495,11 @@
       <Class>Rogue</Class>
       <Id>c0a4d513-20ba-4dc4-b05d-63d7a65d15fe</Id>
       <Name>欧洲潜行者</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Shaman</Class>
+      <Id>ebb62b4c-6afc-465c-ac38-a1474d6f8b57</Id>
+      <Name>美洲萨满</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
