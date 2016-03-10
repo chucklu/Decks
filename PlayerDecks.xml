@@ -10335,100 +10335,6 @@
   <Deck>
     <Cards>
       <Card>
-        <Id>CS2_108</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_106</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_114</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_105</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_066</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_124</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_019</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_125</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_084</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_182</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>NEW1_011</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_179</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_147</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_112</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_593</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_200</Id>
-        <Count>2</Count>
-      </Card>
-    </Cards>
-    <Class>Warrior</Class>
-    <HearthStatsId />
-    <LastEdited>2015-11-08T20:51:43.2265337+08:00</LastEdited>
-    <MissingCards />
-    <Url />
-    <Version>
-      <Build>0</Build>
-      <Major>1</Major>
-      <Minor>0</Minor>
-      <Revision>0</Revision>
-    </Version>
-    <DeckHistory />
-    <Archived>false</Archived>
-    <Note />
-    <SelectedVersion>
-      <Build>0</Build>
-      <Major>1</Major>
-      <Minor>0</Minor>
-      <Revision>0</Revision>
-    </SelectedVersion>
-    <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
-    <IsArenaDeck>false</IsArenaDeck>
-    <DeckId>5b146d2a-8947-41ed-a916-442a2f75dc96</DeckId>
-    <Name>614982784战士</Name>
-    <SyncWithHearthStats xsi:nil="true" />
-    <Tags />
-  </Deck>
-  <Deck>
-    <Cards>
-      <Card>
         <Id>EX1_245</Id>
         <Count>1</Count>
       </Card>
@@ -14495,6 +14401,128 @@
     <SyncWithHearthStats xsi:nil="true" />
     <Tags />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>CS2_108</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_106</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_114</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_105</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_604</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_117</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_125</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_182</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>NEW1_011</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>AT_067</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>AT_091</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_179</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_147</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_112</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_221</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_069</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>GVG_099</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS1_069</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_162</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_032</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_200</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_411</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_561</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Warrior</Class>
+    <HearthStatsId />
+    <LastEdited>2016-03-10T21:41:20.7916922+08:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <Archived>false</Archived>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
+    <IsArenaDeck>false</IsArenaDeck>
+    <DeckId>5b146d2a-8947-41ed-a916-442a2f75dc96</DeckId>
+    <Name>614982784战士</Name>
+    <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Druid</Class>
@@ -14532,14 +14560,14 @@
       <Name>欧洲术士</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Warrior</Class>
-      <Id>2380365b-9a8a-4aa5-9727-f51553d73829</Id>
-      <Name>亚洲战士</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Rogue</Class>
       <Id>fafaf1fe-4a42-4f92-9c44-ae2f04c36509</Id>
       <Name>2068652730潜行者</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Warrior</Class>
+      <Id>5b146d2a-8947-41ed-a916-442a2f75dc96</Id>
+      <Name>614982784战士</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
