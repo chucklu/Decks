@@ -8563,132 +8563,6 @@
   <Deck>
     <Cards>
       <Card>
-        <Id>GVG_085</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_096</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_196</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_117</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>FP1_009</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_125</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_182</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>GVG_107</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_179</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_048</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>GVG_096</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_097</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>FP1_014</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS1_069</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>FP1_012</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>FP1_015</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_032</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_162</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>BRM_028</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>GVG_110</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>FP1_013</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_561</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>AT_092</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_620</Id>
-        <Count>1</Count>
-      </Card>
-    </Cards>
-    <Class>Warlock</Class>
-    <HearthStatsId />
-    <LastEdited>2015-10-24T23:25:59.0214467+08:00</LastEdited>
-    <MissingCards />
-    <Url />
-    <Version>
-      <Build>0</Build>
-      <Major>1</Major>
-      <Minor>0</Minor>
-      <Revision>0</Revision>
-    </Version>
-    <DeckHistory />
-    <Archived>false</Archived>
-    <Note />
-    <SelectedVersion>
-      <Build>0</Build>
-      <Major>1</Major>
-      <Minor>0</Minor>
-      <Revision>0</Revision>
-    </SelectedVersion>
-    <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
-    <IsArenaDeck>false</IsArenaDeck>
-    <DeckId>9890242d-2fc5-4d01-81f4-9c80170e4e1c</DeckId>
-    <Name>美洲术士</Name>
-    <SyncWithHearthStats xsi:nil="true" />
-    <Tags />
-  </Deck>
-  <Deck>
-    <Cards>
-      <Card>
         <Id>CS2_073</Id>
         <Count>1</Count>
       </Card>
@@ -14663,6 +14537,132 @@
     <SyncWithHearthStats xsi:nil="true" />
     <Tags />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>GVG_085</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_096</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_117</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>FP1_009</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_196</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_125</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_182</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_048</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_107</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_179</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>GVG_096</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>FP1_015</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_069</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>FP1_014</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>FP1_012</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS1_069</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_162</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_032</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>BRM_028</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GVG_110</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>FP1_013</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_561</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>AT_120</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_620</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Warlock</Class>
+    <HearthStatsId />
+    <LastEdited>2016-03-13T16:15:20.6354349+08:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <Archived>false</Archived>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
+    <IsArenaDeck>false</IsArenaDeck>
+    <DeckId>9890242d-2fc5-4d01-81f4-9c80170e4e1c</DeckId>
+    <Name>美洲术士</Name>
+    <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Druid</Class>
@@ -14700,14 +14700,14 @@
       <Name>244657538猎人</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Warlock</Class>
-      <Id>84fea6dc-3be2-496c-a8b4-335c746ade83</Id>
-      <Name>宇宙术</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Paladin</Class>
       <Id>06189092-331e-403d-8587-e0d3cd2e9a04</Id>
       <Name>244657538圣骑士</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Warlock</Class>
+      <Id>9890242d-2fc5-4d01-81f4-9c80170e4e1c</Id>
+      <Name>美洲术士</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
