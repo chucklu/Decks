@@ -2965,133 +2965,6 @@
   <Deck>
     <Cards>
       <Card>
-        <Id>EX1_610</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_536</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>NEW1_031</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_182</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_179</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>EX1_048</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>FP1_014</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS1_069</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>FP1_012</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>FP1_015</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_032</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_162</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_534</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>DS1_183</Id>
-        <Count>2</Count>
-      </Card>
-      <Card>
-        <Id>CS2_197</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>GVG_105</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>GVG_110</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>FP1_013</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_096</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_066</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_203</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>EX1_057</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>CS2_200</Id>
-        <Count>1</Count>
-      </Card>
-      <Card>
-        <Id>GVG_049</Id>
-        <Count>1</Count>
-      </Card>
-    </Cards>
-    <Class>Hunter</Class>
-    <HearthStatsDeckVersionId />
-    <HearthStatsId />
-    <LastEdited>2015-04-29T20:23:09.5264366+08:00</LastEdited>
-    <MissingCards />
-    <Url />
-    <Version>
-      <Build>0</Build>
-      <Major>1</Major>
-      <Minor>0</Minor>
-      <Revision>0</Revision>
-    </Version>
-    <DeckHistory />
-    <Archived>false</Archived>
-    <Note />
-    <SelectedVersion>
-      <Build>0</Build>
-      <Major>1</Major>
-      <Minor>0</Minor>
-      <Revision>0</Revision>
-    </SelectedVersion>
-    <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
-    <IsArenaDeck>false</IsArenaDeck>
-    <DeckId>d2519f82-7cb5-48b3-b165-d654bd4c881a</DeckId>
-    <Name>美洲猎人</Name>
-    <SyncWithHearthStats xsi:nil="true" />
-    <Tags />
-  </Deck>
-  <Deck>
-    <Cards>
-      <Card>
         <Id>CS2_227</Id>
         <Count>1</Count>
       </Card>
@@ -14875,6 +14748,125 @@
     <SyncWithHearthStats xsi:nil="true" />
     <Tags />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>DS1_185</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>DS1_175</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_171</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_120</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>OG_281</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_172</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>OG_286</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_196</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_141</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_122</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_127</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>DS1_183</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>OG_283</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_119</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>DS1_070</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_150</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>BRM_028</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>OG_152</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_201</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>OG_142</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_561</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>OG_280</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Hunter</Class>
+    <HearthStatsDeckVersionId />
+    <HearthStatsId />
+    <LastEdited>2016-05-03T22:37:42.8962721+08:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <Archived>false</Archived>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <HearthStatsIdsAlreadyReset>false</HearthStatsIdsAlreadyReset>
+    <IsArenaDeck>false</IsArenaDeck>
+    <DeckId>d2519f82-7cb5-48b3-b165-d654bd4c881a</DeckId>
+    <Name>美洲标准猎人</Name>
+    <SyncWithHearthStats xsi:nil="true" />
+    <Tags />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Druid</Class>
@@ -14898,13 +14890,8 @@
     </DeckInfo>
     <DeckInfo>
       <Class>Hunter</Class>
-      <Id>aee9f5df-dfe0-4278-8668-541bef540060</Id>
-      <Name>欧洲标准猎人</Name>
-    </DeckInfo>
-    <DeckInfo>
-      <Class>Paladin</Class>
-      <Id>2ce4f8a7-232c-433a-92a1-11535fd9f5c5</Id>
-      <Name>美洲标准圣骑士</Name>
+      <Id>d2519f82-7cb5-48b3-b165-d654bd4c881a</Id>
+      <Name>美洲标准猎人</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
